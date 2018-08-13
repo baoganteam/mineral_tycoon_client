@@ -14,12 +14,16 @@ cc.Class({
 
     properties: {
         audioManager: cc.Node,
-
         toggleMute: {
             default: null,
             type: cc.Node
+        },
+        shop: {
+            default:null,
+            type: cc.Node
         }
     },
+
 
     // LIFE-CYCLE CALLBACKS:
 
@@ -39,10 +43,20 @@ cc.Class({
         }
     },
 
+    shopButtonClicked(){
+        if(this.shop.node.active == false){
+            this.shop.showShop();
+            console.log('show');
+        }else{
+            this.shop.closeShop();
+            console.log(this.shop.node.active);
+        }
+    },
     onLoad: function() {
         this.audioManager = this.audioManager.getComponent('AudioManager');
         this.audioManager.playHomeBGM();
-        console.log(playerData);
+        this.shop = this.shop.getComponent('Shop');
+
     },
 
 
