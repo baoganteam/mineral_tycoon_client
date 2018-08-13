@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KS3",
+    "texture": "b20c25ae-7e3a-4239-bd84-7e25712b484f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      144
+    ]
+  }
+}

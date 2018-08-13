@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_worker_manager",
+    "texture": "704e2c13-6d35-4e15-9f1a-8551cc64e962",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      133
+    ]
+  }
+}

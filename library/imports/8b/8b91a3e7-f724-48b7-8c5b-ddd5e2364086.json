@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_achieve",
+    "texture": "93239643-148e-4177-a381-6bfc0ce35438",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      64
+    ]
+  }
+}

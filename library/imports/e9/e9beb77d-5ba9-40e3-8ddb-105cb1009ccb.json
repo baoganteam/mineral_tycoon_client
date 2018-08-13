@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buff_processbar",
+    "texture": "cd17ff4e-70ca-4959-a557-54384aaf8430",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      55
+    ]
+  }
+}

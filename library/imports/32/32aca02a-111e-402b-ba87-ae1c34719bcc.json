@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_lottery",
+    "texture": "35ca19cd-fd29-40f7-b403-87d70f12fa29",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      77
+    ]
+  }
+}

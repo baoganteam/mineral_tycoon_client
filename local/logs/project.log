@@ -1,0 +1,2113 @@
+2018-08-13T12:14:24.148Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-13T12:14:24.153Z - normal: checking language setting...
+2018-08-13T12:14:24.153Z - normal: Language: zh
+2018-08-13T12:14:25.196Z - success: protocol editor-framework registered
+2018-08-13T12:14:25.197Z - success: protocol app registered
+2018-08-13T12:14:25.197Z - success: protocol theme registered
+2018-08-13T12:14:25.197Z - success: protocol packages registered
+2018-08-13T12:14:25.197Z - success: protocol unpack registerred
+2018-08-13T12:14:25.198Z - success: protocol disable-commonjs registerred
+2018-08-13T12:14:25.298Z - normal: connected!
+2018-08-13T12:14:25.302Z - normal: Check project /Users/alex/Documents/MINIGAME/mineral_tycoon_client
+2018-08-13T12:14:25.324Z - normal: Initializing Cocos2d
+2018-08-13T12:14:25.620Z - normal: Initializing Asset Database
+2018-08-13T12:14:25.664Z - success: protocol uuid registerred
+2018-08-13T12:14:25.664Z - success: protocol db registerred
+2018-08-13T12:14:25.664Z - success: protocol thumbnail registerred
+2018-08-13T12:14:25.665Z - normal: Loading editor/builtin packages
+2018-08-13T12:14:25.700Z - success: anysdk loaded
+2018-08-13T12:14:25.849Z - success: assets loaded
+2018-08-13T12:14:25.854Z - success: builder loaded
+2018-08-13T12:14:25.857Z - success: cocos-analytics loaded
+2018-08-13T12:14:25.863Z - success: console loaded
+2018-08-13T12:14:25.898Z - success: fb-instant-games loaded
+2018-08-13T12:14:25.903Z - success: hierarchy loaded
+2018-08-13T12:14:25.909Z - success: inspector loaded
+2018-08-13T12:14:25.911Z - success: keystore loaded
+2018-08-13T12:14:25.916Z - success: node-library loaded
+2018-08-13T12:14:25.919Z - success: package-asset loaded
+2018-08-13T12:14:25.921Z - success: preferences loaded
+2018-08-13T12:14:25.925Z - success: project-exporter loaded
+2018-08-13T12:14:25.947Z - success: project-importer loaded
+2018-08-13T12:14:25.951Z - success: project-settings loaded
+2018-08-13T12:14:25.957Z - success: ui-kit loaded
+2018-08-13T12:14:25.963Z - success: ui-grid loaded
+2018-08-13T12:14:25.969Z - success: scene loaded
+2018-08-13T12:14:25.970Z - success: sprite-editor loaded
+2018-08-13T12:14:25.975Z - success: store loaded
+2018-08-13T12:14:25.984Z - success: timeline loaded
+2018-08-13T12:14:25.984Z - normal: Loading builtin packages
+2018-08-13T12:14:25.990Z - success: asset-db-debugger loaded
+2018-08-13T12:14:25.991Z - success: color-picker loaded
+2018-08-13T12:14:25.997Z - success: package-manager loaded
+2018-08-13T12:14:25.998Z - success: qqplay-adapter loaded
+2018-08-13T12:14:26.007Z - success: sdkbox loaded
+2018-08-13T12:14:26.012Z - success: tester loaded
+2018-08-13T12:14:26.017Z - success: ui-kit-preview-extra loaded
+2018-08-13T12:14:26.022Z - success: ui-kit-preview loaded
+2018-08-13T12:14:26.026Z - success: ui-tree loaded
+2018-08-13T12:14:26.027Z - success: weapp-adapter loaded
+2018-08-13T12:14:27.510Z - normal: Initializing project /Users/alex/Documents/MINIGAME/mineral_tycoon_client
+2018-08-13T12:14:27.511Z - normal: Loading packages
+2018-08-13T12:14:27.517Z - normal: Watching packages
+2018-08-13T12:14:27.650Z - normal: Run Application
+2018-08-13T12:14:31.192Z - success: preview server running at http://localhost:7456
+2018-08-13T12:14:37.989Z - normal: 1.9.3
+2018-08-13T12:29:01.381Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:12558
+2018-08-13T12:29:32.071Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:12911
+2018-08-13T12:29:32.089Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:12913
+2018-08-13T12:36:03.589Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:18994
+2018-08-13T12:36:03.594Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:18995
+2018-08-13T12:54:20.065Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:36594
+2018-08-13T12:54:20.068Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:36596
+2018-08-13T12:54:20.088Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:36597
+2018-08-13T12:54:46.818Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:36974
+2018-08-13T12:55:04.838Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:37007
+2018-08-13T12:55:04.839Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:37009
+2018-08-13T12:55:04.840Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:37010
+2018-08-13T12:55:31.196Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:37351
+2018-08-13T13:37:26.219Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:37:26.231Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:37:26.256Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:37:26.261Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:37:26.262Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:37:26.444Z - normal: Simulator: 
+2018-08-13T13:37:26.445Z - normal: Simulator: {
+2018-08-13T13:37:26.445Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:37:26.445Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:37:26.445Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:37:26.446Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:37:26.446Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:37:26.446Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:37:26.446Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:37:26.446Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:37:26.447Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:37:26.447Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:37:26.447Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:37:26.447Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:37:26.448Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:37:26.448Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:37:26.448Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:37:26.448Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:37:26.448Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:37:26.449Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:37:26.449Z - normal: Simulator: }
+2018-08-13T13:37:26.449Z - normal: Simulator: 
+2018-08-13T13:37:26.449Z - normal: Simulator: 
+2018-08-13T13:37:26.449Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:37:26.453Z - normal: Simulator: Project Config:
+2018-08-13T13:37:26.453Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:37:26.453Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:37:26.453Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:37:26.454Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:37:26.454Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:37:26.454Z - normal: Simulator:     show console: NO
+2018-08-13T13:37:26.455Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:37:26.455Z - normal: Simulator:     listen: 
+2018-08-13T13:37:26.457Z - normal: Simulator:     debugger: none
+2018-08-13T13:37:26.458Z - normal: Simulator:     add searching path:
+2018-08-13T13:37:26.458Z - normal: Simulator: 
+2018-08-13T13:37:26.459Z - normal: Simulator: 
+2018-08-13T13:37:26.460Z - normal: Simulator: 
+2018-08-13T13:37:26.460Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:37:26.464Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:37:26.467Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:37:26.468Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:37:26.643Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:37:27.032Z - normal: Simulator: iShow!
+2018-08-13T13:37:27.461Z - normal: Simulator: JS: InitScene: 7.736999999999966ms
+2018-08-13T13:37:27.462Z - normal: Simulator: JS: AutoRelease: 0.2480000000000473ms
+2018-08-13T13:37:27.462Z - normal: Simulator: JS: Destroy: 0.12700000000018008ms
+2018-08-13T13:37:27.462Z - normal: Simulator: JS: AttachPersist: 0.006999999999834472ms
+2018-08-13T13:37:27.526Z - normal: Simulator: ERROR: TypeError: null is not an object (evaluating 'this.shop.getComponent'), location: assets/scripts/Game.js:51:30
+2018-08-13T13:37:27.527Z - normal: Simulator: STACK:
+2018-08-13T13:37:27.527Z - normal: Simulator: onLoad@assets/scripts/Game.js:51:30
+2018-08-13T13:37:27.527Z - normal: Simulator: anonymous
+2018-08-13T13:37:27.528Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2018-08-13T13:37:27.528Z - normal: Simulator: activateNode@src/jsb_polyfill.js:13694:31
+2018-08-13T13:37:27.528Z - normal: Simulator: _activate@src/jsb_polyfill.js:3258:50
+2018-08-13T13:37:27.528Z - normal: Simulator: runSceneImmediate@src/jsb_polyfill.js:25473:28
+2018-08-13T13:37:27.529Z - normal: Simulator: main.js:53:54
+2018-08-13T13:37:27.529Z - normal: Simulator: src/jsb_polyfill.js:16057:33
+2018-08-13T13:37:27.530Z - normal: Simulator: src/jsb_polyfill.js:11962:38
+2018-08-13T13:37:27.530Z - normal: Simulator: src/jsb_polyfill.js:19587:21
+2018-08-13T13:37:27.530Z - normal: Simulator: onceWrapper@src/jsb_polyfill.js:11017:26
+2018-08-13T13:37:27.531Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T13:37:27.532Z - normal: Simulator: emit@src/jsb_polyfill.js:11044:117
+2018-08-13T13:37:27.532Z - normal: Simulator: callback@src/jsb_polyfill.js:25607:27
+2018-08-13T13:37:53.534Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:37:53.536Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:37:53.538Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:37:53.539Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:37:53.540Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:37:53.701Z - normal: Simulator: 
+2018-08-13T13:37:53.701Z - normal: Simulator: {
+2018-08-13T13:37:53.701Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:37:53.701Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:37:53.702Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:37:53.702Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:37:53.702Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:37:53.703Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:37:53.703Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:37:53.703Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:37:53.703Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:37:53.704Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:37:53.704Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:37:53.704Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:37:53.705Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:37:53.705Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:37:53.706Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:37:53.706Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:37:53.707Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:37:53.707Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:37:53.707Z - normal: Simulator: }
+2018-08-13T13:37:53.708Z - normal: Simulator: 
+2018-08-13T13:37:53.708Z - normal: Simulator: 
+2018-08-13T13:37:53.708Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:37:53.708Z - normal: Simulator: Project Config:
+2018-08-13T13:37:53.709Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:37:53.709Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:37:53.709Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:37:53.710Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:37:53.710Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:37:53.711Z - normal: Simulator:     show console: NO
+2018-08-13T13:37:53.712Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:37:53.713Z - normal: Simulator:     listen: 
+2018-08-13T13:37:53.715Z - normal: Simulator:     debugger: none
+2018-08-13T13:37:53.717Z - normal: Simulator:     add searching path:
+2018-08-13T13:37:53.718Z - normal: Simulator: 
+2018-08-13T13:37:53.718Z - normal: Simulator: 
+2018-08-13T13:37:53.718Z - normal: Simulator: 
+2018-08-13T13:37:53.719Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:37:53.719Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:37:53.720Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:37:53.720Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:37:53.841Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:37:54.199Z - normal: Simulator: iShow!
+2018-08-13T13:37:54.636Z - normal: Simulator: JS: InitScene: 3.3239999999999554ms
+2018-08-13T13:37:54.637Z - normal: Simulator: JS: AutoRelease: 0.2259999999999991ms
+2018-08-13T13:37:54.637Z - normal: Simulator: JS: Destroy: 0.0989999999999327ms
+2018-08-13T13:37:54.638Z - normal: Simulator: JS: AttachPersist: 0.0060000000000854925ms
+2018-08-13T13:37:54.676Z - normal: Simulator: ERROR: TypeError: null is not an object (evaluating 'this.shop.getComponent'), location: assets/scripts/Game.js:51:30
+2018-08-13T13:37:54.676Z - normal: Simulator: STACK:
+2018-08-13T13:37:54.676Z - normal: Simulator: onLoad@assets/scripts/Game.js:51:30
+2018-08-13T13:37:54.677Z - normal: Simulator: anonymous
+2018-08-13T13:37:54.677Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2018-08-13T13:37:54.677Z - normal: Simulator: activateNode@src/jsb_polyfill.js:13694:31
+2018-08-13T13:37:54.677Z - normal: Simulator: _activate@src/jsb_polyfill.js:3258:50
+2018-08-13T13:37:54.677Z - normal: Simulator: runSceneImmediate@src/jsb_polyfill.js:25473:28
+2018-08-13T13:37:54.678Z - normal: Simulator: main.js:53:54
+2018-08-13T13:37:54.678Z - normal: Simulator: src/jsb_polyfill.js:16057:33
+2018-08-13T13:37:54.681Z - normal: Simulator: src/jsb_polyfill.js:11962:38
+2018-08-13T13:37:54.681Z - normal: Simulator: src/jsb_polyfill.js:19587:21
+2018-08-13T13:37:54.682Z - normal: Simulator: onceWrapper@src/jsb_polyfill.js:11017:26
+2018-08-13T13:37:54.683Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T13:37:54.683Z - normal: Simulator: emit@src/jsb_polyfill.js:11044:117
+2018-08-13T13:37:54.683Z - normal: Simulator: callback@src/jsb_polyfill.js:25607:27
+2018-08-13T13:38:18.381Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-08-13T13:38:18.381Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 163
+2018-08-13T13:38:18.404Z - normal: Simulator: GC end ..., (Native -> JS map) count: 142
+2018-08-13T13:38:18.404Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 142
+2018-08-13T13:38:18.405Z - normal: Simulator: GC end ..., (Native -> JS map) count: 142
+2018-08-13T13:38:18.405Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 142
+2018-08-13T13:38:18.405Z - normal: Simulator: GC end ..., (Native -> JS map) count: 142
+2018-08-13T13:38:18.419Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-08-13T13:38:18.419Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-08-13T13:38:18.419Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-08-13T13:38:18.420Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-08-13T13:40:13.272Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:40:13.284Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:40:13.296Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:40:13.297Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:40:13.297Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:40:13.437Z - normal: Simulator: 
+2018-08-13T13:40:13.437Z - normal: Simulator: {
+2018-08-13T13:40:13.438Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:40:13.438Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:40:13.438Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:40:13.439Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:40:13.439Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:40:13.439Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:40:13.439Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:40:13.440Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:40:13.440Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:40:13.440Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:40:13.440Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:40:13.441Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:40:13.441Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:40:13.441Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:40:13.441Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:40:13.442Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:40:13.442Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:40:13.442Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:40:13.442Z - normal: Simulator: }
+2018-08-13T13:40:13.442Z - normal: Simulator: 
+2018-08-13T13:40:13.443Z - normal: Simulator: 
+2018-08-13T13:40:13.443Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:40:13.448Z - normal: Simulator: Project Config:
+2018-08-13T13:40:13.449Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:40:13.450Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:40:13.451Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:40:13.451Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:40:13.451Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:40:13.451Z - normal: Simulator:     show console: NO
+2018-08-13T13:40:13.452Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:40:13.455Z - normal: Simulator:     listen: 
+2018-08-13T13:40:13.455Z - normal: Simulator:     debugger: none
+2018-08-13T13:40:13.455Z - normal: Simulator:     add searching path:
+2018-08-13T13:40:13.456Z - normal: Simulator: 
+2018-08-13T13:40:13.456Z - normal: Simulator: 
+2018-08-13T13:40:13.456Z - normal: Simulator: 
+2018-08-13T13:40:13.457Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:40:13.457Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:40:13.457Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:40:13.458Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:40:13.600Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:40:13.945Z - normal: Simulator: iShow!
+2018-08-13T13:40:14.294Z - normal: Simulator: JS: InitScene: 5.110000000000014ms
+2018-08-13T13:40:14.294Z - normal: Simulator: JS: AutoRelease: 0.2259999999999991ms
+2018-08-13T13:40:14.295Z - normal: Simulator: JS: Destroy: 0.3280000000000882ms
+2018-08-13T13:40:14.295Z - normal: Simulator: JS: AttachPersist: 0.006999999999948159ms
+2018-08-13T13:40:14.340Z - normal: Simulator: JS: Activate: 44.150999999999954ms
+2018-08-13T13:41:54.676Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:41:54.740Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:41:54.740Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:41:54.740Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:41:54.741Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:41:54.891Z - normal: Simulator: 
+2018-08-13T13:41:54.892Z - normal: Simulator: {
+2018-08-13T13:41:54.898Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:41:54.899Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:41:54.899Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:41:54.899Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:41:54.900Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:41:54.900Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:41:54.901Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:41:54.902Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:41:54.902Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:41:54.902Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:41:54.903Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:41:54.903Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:41:54.903Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:41:54.903Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:41:54.903Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:41:54.904Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:41:54.904Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:41:54.904Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:41:54.904Z - normal: Simulator: }
+2018-08-13T13:41:54.905Z - normal: Simulator: 
+2018-08-13T13:41:54.905Z - normal: Simulator: 
+2018-08-13T13:41:54.906Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:41:54.906Z - normal: Simulator: Project Config:
+2018-08-13T13:41:54.907Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:41:54.908Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:41:54.908Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:41:54.909Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:41:54.909Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:41:54.909Z - normal: Simulator:     show console: NO
+2018-08-13T13:41:54.910Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:41:54.910Z - normal: Simulator:     listen: 
+2018-08-13T13:41:54.910Z - normal: Simulator:     debugger: none
+2018-08-13T13:41:54.911Z - normal: Simulator:     add searching path:
+2018-08-13T13:41:54.911Z - normal: Simulator: 
+2018-08-13T13:41:54.912Z - normal: Simulator: 
+2018-08-13T13:41:54.912Z - normal: Simulator: 
+2018-08-13T13:41:54.913Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:41:54.914Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:41:54.914Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:41:54.914Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:41:55.144Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:41:55.360Z - normal: Simulator: iShow!
+2018-08-13T13:41:55.780Z - normal: Simulator: JS: InitScene: 4.465000000000032ms
+2018-08-13T13:41:55.781Z - normal: Simulator: JS: AutoRelease: 0.25100000000009004ms
+2018-08-13T13:41:55.781Z - normal: Simulator: JS: Destroy: 0.1089999999999236ms
+2018-08-13T13:41:55.782Z - normal: Simulator: JS: AttachPersist: 0.0060000000000854925ms
+2018-08-13T13:41:55.840Z - normal: Simulator: ERROR: TypeError: null is not an object (evaluating 'this.shop.getComponent'), location: assets/scripts/Game.js:51:30
+2018-08-13T13:41:55.841Z - normal: Simulator: STACK:
+2018-08-13T13:41:55.841Z - normal: Simulator: onLoad@assets/scripts/Game.js:51:30
+2018-08-13T13:41:55.841Z - normal: Simulator: anonymous
+2018-08-13T13:41:55.845Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2018-08-13T13:41:55.845Z - normal: Simulator: activateNode@src/jsb_polyfill.js:13694:31
+2018-08-13T13:41:55.846Z - normal: Simulator: _activate@src/jsb_polyfill.js:3258:50
+2018-08-13T13:41:55.846Z - normal: Simulator: runSceneImmediate@src/jsb_polyfill.js:25473:28
+2018-08-13T13:41:55.846Z - normal: Simulator: main.js:53:54
+2018-08-13T13:41:55.847Z - normal: Simulator: src/jsb_polyfill.js:16057:33
+2018-08-13T13:41:55.848Z - normal: Simulator: src/jsb_polyfill.js:11962:38
+2018-08-13T13:41:55.848Z - normal: Simulator: src/jsb_polyfill.js:19587:21
+2018-08-13T13:41:55.848Z - normal: Simulator: onceWrapper@src/jsb_polyfill.js:11017:26
+2018-08-13T13:41:55.851Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T13:41:55.852Z - normal: Simulator: emit@src/jsb_polyfill.js:11044:117
+2018-08-13T13:41:55.852Z - normal: Simulator: callback@src/jsb_polyfill.js:25607:27
+2018-08-13T13:42:09.937Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:42:09.940Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:42:09.944Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:42:09.954Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:42:09.954Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:42:10.090Z - normal: Simulator: 
+2018-08-13T13:42:10.091Z - normal: Simulator: {
+2018-08-13T13:42:10.092Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:42:10.092Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:42:10.092Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:42:10.092Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:42:10.092Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:42:10.093Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:42:10.093Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:42:10.093Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:42:10.093Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:42:10.094Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:42:10.094Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:42:10.094Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:42:10.094Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:42:10.095Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:42:10.095Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:42:10.095Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:42:10.095Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:42:10.095Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:42:10.096Z - normal: Simulator: }
+2018-08-13T13:42:10.096Z - normal: Simulator: 
+2018-08-13T13:42:10.096Z - normal: Simulator: 
+2018-08-13T13:42:10.096Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:42:10.096Z - normal: Simulator: Project Config:
+2018-08-13T13:42:10.097Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:42:10.097Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:42:10.097Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:42:10.097Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:42:10.098Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:42:10.098Z - normal: Simulator:     show console: NO
+2018-08-13T13:42:10.098Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:42:10.098Z - normal: Simulator:     listen: 
+2018-08-13T13:42:10.099Z - normal: Simulator:     debugger: none
+2018-08-13T13:42:10.099Z - normal: Simulator:     add searching path:
+2018-08-13T13:42:10.099Z - normal: Simulator: 
+2018-08-13T13:42:10.100Z - normal: Simulator: 
+2018-08-13T13:42:10.100Z - normal: Simulator: 
+2018-08-13T13:42:10.100Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:42:10.100Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:42:10.101Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:42:10.101Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:42:10.166Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:42:10.503Z - normal: Simulator: iShow!
+2018-08-13T13:42:10.875Z - normal: Simulator: JS: InitScene: 4.153999999999996ms
+2018-08-13T13:42:10.876Z - normal: Simulator: JS: AutoRelease: 0.19499999999993634ms
+2018-08-13T13:42:10.876Z - normal: Simulator: JS: Destroy: 0.09000000000003183ms
+2018-08-13T13:42:10.876Z - normal: Simulator: JS: AttachPersist: 0.007000000000061846ms
+2018-08-13T13:42:10.921Z - normal: Simulator: ERROR: TypeError: null is not an object (evaluating 'this.shop.getComponent'), location: assets/scripts/Game.js:51:30
+2018-08-13T13:42:10.921Z - normal: Simulator: STACK:
+2018-08-13T13:42:10.921Z - normal: Simulator: onLoad@assets/scripts/Game.js:51:30
+2018-08-13T13:42:10.921Z - normal: Simulator: anonymous
+2018-08-13T13:42:10.922Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2018-08-13T13:42:10.922Z - normal: Simulator: activateNode@src/jsb_polyfill.js:13694:31
+2018-08-13T13:42:10.922Z - normal: Simulator: _activate@src/jsb_polyfill.js:3258:50
+2018-08-13T13:42:10.923Z - normal: Simulator: runSceneImmediate@src/jsb_polyfill.js:25473:28
+2018-08-13T13:42:10.923Z - normal: Simulator: main.js:53:54
+2018-08-13T13:42:10.923Z - normal: Simulator: src/jsb_polyfill.js:16057:33
+2018-08-13T13:42:10.925Z - normal: Simulator: src/jsb_polyfill.js:11962:38
+2018-08-13T13:42:10.925Z - normal: Simulator: src/jsb_polyfill.js:19587:21
+2018-08-13T13:42:10.926Z - normal: Simulator: onceWrapper@src/jsb_polyfill.js:11017:26
+2018-08-13T13:42:10.927Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T13:42:10.928Z - normal: Simulator: emit@src/jsb_polyfill.js:11044:117
+2018-08-13T13:42:10.928Z - normal: Simulator: callback@src/jsb_polyfill.js:25607:27
+2018-08-13T13:46:16.797Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:46:16.800Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:46:16.800Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:46:16.800Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:46:16.801Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:46:16.909Z - normal: Simulator: 
+2018-08-13T13:46:16.909Z - normal: Simulator: {
+2018-08-13T13:46:16.909Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:46:16.910Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:46:16.951Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:46:16.951Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:46:16.951Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:46:16.952Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:46:16.952Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:46:16.952Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:46:16.952Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:46:16.952Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:46:16.953Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:46:16.953Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:46:16.953Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:46:16.953Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:46:16.953Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:46:16.954Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:46:16.954Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:46:16.954Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:46:16.954Z - normal: Simulator: }
+2018-08-13T13:46:16.954Z - normal: Simulator: 
+2018-08-13T13:46:16.955Z - normal: Simulator: 
+2018-08-13T13:46:16.955Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:46:16.970Z - normal: Simulator: Project Config:
+2018-08-13T13:46:16.970Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:46:16.971Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:46:16.971Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:46:16.971Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:46:16.972Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:46:16.972Z - normal: Simulator:     show console: NO
+2018-08-13T13:46:16.972Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:46:16.972Z - normal: Simulator:     listen: 
+2018-08-13T13:46:16.973Z - normal: Simulator:     debugger: none
+2018-08-13T13:46:16.973Z - normal: Simulator:     add searching path:
+2018-08-13T13:46:16.973Z - normal: Simulator: 
+2018-08-13T13:46:16.973Z - normal: Simulator: 
+2018-08-13T13:46:16.973Z - normal: Simulator: 
+2018-08-13T13:46:16.974Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:46:16.974Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:46:16.974Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:46:16.974Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:46:17.112Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:46:17.481Z - normal: Simulator: iShow!
+2018-08-13T13:46:17.902Z - normal: Simulator: JS: InitScene: 4.217999999999961ms
+2018-08-13T13:46:17.902Z - normal: Simulator: JS: AutoRelease: 0.3100000000000591ms
+2018-08-13T13:46:17.903Z - normal: Simulator: JS: Destroy: 0.1349999999999909ms
+2018-08-13T13:46:17.903Z - normal: Simulator: JS: AttachPersist: 0.012000000000057298ms
+2018-08-13T13:46:17.955Z - normal: Simulator: ERROR: TypeError: null is not an object (evaluating 'this.shop.getComponent'), location: assets/scripts/Game.js:51:30
+2018-08-13T13:46:17.955Z - normal: Simulator: STACK:
+2018-08-13T13:46:17.956Z - normal: Simulator: onLoad@assets/scripts/Game.js:51:30
+2018-08-13T13:46:17.956Z - normal: Simulator: anonymous
+2018-08-13T13:46:17.956Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2018-08-13T13:46:17.956Z - normal: Simulator: activateNode@src/jsb_polyfill.js:13694:31
+2018-08-13T13:46:17.957Z - normal: Simulator: _activate@src/jsb_polyfill.js:3258:50
+2018-08-13T13:46:17.957Z - normal: Simulator: runSceneImmediate@src/jsb_polyfill.js:25473:28
+2018-08-13T13:46:17.957Z - normal: Simulator: main.js:53:54
+2018-08-13T13:46:17.958Z - normal: Simulator: src/jsb_polyfill.js:16057:33
+2018-08-13T13:46:17.958Z - normal: Simulator: src/jsb_polyfill.js:11962:38
+2018-08-13T13:46:17.958Z - normal: Simulator: src/jsb_polyfill.js:19587:21
+2018-08-13T13:46:17.961Z - normal: Simulator: onceWrapper@src/jsb_polyfill.js:11017:26
+2018-08-13T13:46:17.963Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T13:46:17.963Z - normal: Simulator: emit@src/jsb_polyfill.js:11044:117
+2018-08-13T13:46:17.964Z - normal: Simulator: callback@src/jsb_polyfill.js:25607:27
+2018-08-13T13:52:01.746Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:52:01.753Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:52:01.754Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:52:01.757Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:52:01.758Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:52:01.761Z - normal: Simulator: 
+2018-08-13T13:52:01.762Z - normal: Simulator: {
+2018-08-13T13:52:01.762Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:52:01.762Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:52:01.762Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:52:01.762Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:52:01.763Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:52:01.763Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:52:01.763Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:52:01.763Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:52:01.763Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:52:01.763Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:52:01.764Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:52:01.764Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:52:01.764Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:52:01.764Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:52:01.764Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:52:01.765Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:52:01.856Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:52:01.856Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:52:01.856Z - normal: Simulator: }
+2018-08-13T13:52:01.857Z - normal: Simulator: 
+2018-08-13T13:52:01.857Z - normal: Simulator: 
+2018-08-13T13:52:01.857Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:52:01.861Z - normal: Simulator: Project Config:
+2018-08-13T13:52:01.862Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:52:01.862Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:52:01.863Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:52:01.863Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:52:01.863Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:52:01.864Z - normal: Simulator:     show console: NO
+2018-08-13T13:52:01.864Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:52:01.864Z - normal: Simulator:     listen: 
+2018-08-13T13:52:01.865Z - normal: Simulator:     debugger: none
+2018-08-13T13:52:01.865Z - normal: Simulator:     add searching path:
+2018-08-13T13:52:01.865Z - normal: Simulator: 
+2018-08-13T13:52:01.865Z - normal: Simulator: 
+2018-08-13T13:52:01.866Z - normal: Simulator: 
+2018-08-13T13:52:01.866Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:52:01.866Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:52:01.867Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:52:01.867Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:52:02.155Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:52:02.380Z - normal: Simulator: iShow!
+2018-08-13T13:52:02.939Z - normal: Simulator: JS: InitScene: 6.125999999999976ms
+2018-08-13T13:52:02.939Z - normal: Simulator: JS: AutoRelease: 0.23099999999999454ms
+2018-08-13T13:52:02.940Z - normal: Simulator: JS: Destroy: 0.10300000000006548ms
+2018-08-13T13:52:02.940Z - normal: Simulator: JS: AttachPersist: 0.008000000000038199ms
+2018-08-13T13:52:02.942Z - normal: Simulator: JS: Activate: 46.899000000000115ms
+2018-08-13T13:53:23.331Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T13:53:23.332Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T13:53:23.332Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:53:23.332Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:53:23.333Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T13:53:23.528Z - normal: Simulator: 
+2018-08-13T13:53:23.529Z - normal: Simulator: {
+2018-08-13T13:53:23.529Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T13:53:23.529Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T13:53:23.529Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T13:53:23.530Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T13:53:23.530Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T13:53:23.533Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T13:53:23.535Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T13:53:23.536Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T13:53:23.538Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T13:53:23.538Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T13:53:23.538Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T13:53:23.539Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T13:53:23.540Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T13:53:23.540Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T13:53:23.540Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T13:53:23.541Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T13:53:23.541Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T13:53:23.541Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T13:53:23.544Z - normal: Simulator: }
+2018-08-13T13:53:23.555Z - normal: Simulator: 
+2018-08-13T13:53:23.556Z - normal: Simulator: 
+2018-08-13T13:53:23.557Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T13:53:23.558Z - normal: Simulator: Project Config:
+2018-08-13T13:53:23.558Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T13:53:23.559Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T13:53:23.560Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T13:53:23.560Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T13:53:23.561Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T13:53:23.561Z - normal: Simulator:     show console: NO
+2018-08-13T13:53:23.564Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T13:53:23.564Z - normal: Simulator:     listen: 
+2018-08-13T13:53:23.565Z - normal: Simulator:     debugger: none
+2018-08-13T13:53:23.565Z - normal: Simulator:     add searching path:
+2018-08-13T13:53:23.569Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:53:23.570Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T13:53:23.570Z - normal: Simulator: ------------------------------------------------
+2018-08-13T13:53:23.570Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T13:53:23.663Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T13:53:24.024Z - normal: Simulator: iShow!
+2018-08-13T13:53:24.491Z - normal: Simulator: JS: InitScene: 4.661999999999807ms
+2018-08-13T13:53:24.493Z - normal: Simulator: JS: AutoRelease: 0.23600000000010368ms
+2018-08-13T13:53:24.498Z - normal: Simulator: JS: Destroy: 0.10500000000001819ms
+2018-08-13T13:53:24.501Z - normal: Simulator: JS: AttachPersist: 0.008000000000038199ms
+2018-08-13T13:53:24.549Z - normal: Simulator: JS: Activate: 63.07600000000002ms
+2018-08-13T13:58:31.987Z - failed: [db-task][sync-changes] Failed to import asset /Users/alex/Documents/MINIGAME/mineral_tycoon_client/assets/scripts/Shop.js, message: Compile error: SyntaxError: /Users/alex/Documents/MINIGAME/mineral_tycoon_client/assets/scripts/Shop.js: Unexpected token, expected , (28:4)
+  26 |     }
+  27 | 
+> 28 |     closeShop(){
+     |     ^
+  29 |         self.node.active = close;
+  30 |     }
+  31 |     // start () {
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2018-08-13T14:04:44.996Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:04:44.999Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:04:44.999Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:04:45.000Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:04:45.000Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:04:45.259Z - normal: Simulator: 
+2018-08-13T14:04:45.259Z - normal: Simulator: {
+2018-08-13T14:04:45.260Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:04:45.260Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:04:45.261Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:04:45.261Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:04:45.261Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:04:45.262Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:04:45.262Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:04:45.262Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:04:45.262Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:04:45.263Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:04:45.263Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:04:45.263Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:04:45.263Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:04:45.264Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:04:45.264Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:04:45.264Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:04:45.264Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:04:45.265Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:04:45.265Z - normal: Simulator: }
+2018-08-13T14:04:45.265Z - normal: Simulator: 
+2018-08-13T14:04:45.266Z - normal: Simulator: 
+2018-08-13T14:04:45.266Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:04:45.266Z - normal: Simulator: Project Config:
+2018-08-13T14:04:45.266Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:04:45.267Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:04:45.267Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:04:45.267Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:04:45.268Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:04:45.268Z - normal: Simulator:     show console: NO
+2018-08-13T14:04:45.269Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:04:45.269Z - normal: Simulator:     listen: 
+2018-08-13T14:04:45.270Z - normal: Simulator:     debugger: none
+2018-08-13T14:04:45.270Z - normal: Simulator:     add searching path:
+2018-08-13T14:04:45.271Z - normal: Simulator: 
+2018-08-13T14:04:45.271Z - normal: Simulator: 
+2018-08-13T14:04:45.272Z - normal: Simulator: 
+2018-08-13T14:04:45.272Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:04:45.273Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:04:45.273Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:04:45.274Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:04:45.372Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:04:45.689Z - normal: Simulator: iShow!
+2018-08-13T14:04:46.204Z - normal: Simulator: JS: InitScene: 2.8659999999999854ms
+2018-08-13T14:04:46.205Z - normal: Simulator: JS: AutoRelease: 0.23200000000008458ms
+2018-08-13T14:04:46.205Z - normal: Simulator: JS: Destroy: 0.12999999999999545ms
+2018-08-13T14:04:46.205Z - normal: Simulator: JS: AttachPersist: 0.019000000000005457ms
+2018-08-13T14:04:46.286Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:04:46.288Z - normal: Simulator: JS: Activate: 126.68299999999999ms
+2018-08-13T14:05:10.034Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:05:10.035Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:05:10.042Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:05:10.043Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:05:10.044Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:05:10.309Z - normal: Simulator: 
+2018-08-13T14:05:10.310Z - normal: Simulator: {
+2018-08-13T14:05:10.310Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:05:10.310Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:05:10.310Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:05:10.311Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:05:10.314Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:05:10.314Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:05:10.314Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:05:10.314Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:05:10.315Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:05:10.315Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:05:10.315Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:05:10.315Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:05:10.316Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:05:10.316Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:05:10.316Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:05:10.317Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:05:10.317Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:05:10.317Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:05:10.317Z - normal: Simulator: }
+2018-08-13T14:05:10.317Z - normal: Simulator: 
+2018-08-13T14:05:10.318Z - normal: Simulator: 
+2018-08-13T14:05:10.318Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:05:10.318Z - normal: Simulator: Project Config:
+2018-08-13T14:05:10.318Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:05:10.318Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:05:10.319Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:05:10.319Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:05:10.319Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:05:10.320Z - normal: Simulator:     show console: NO
+2018-08-13T14:05:10.320Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:05:10.320Z - normal: Simulator:     listen: 
+2018-08-13T14:05:10.320Z - normal: Simulator:     debugger: none
+2018-08-13T14:05:10.321Z - normal: Simulator:     add searching path:
+2018-08-13T14:05:10.321Z - normal: Simulator: 
+2018-08-13T14:05:10.321Z - normal: Simulator: 
+2018-08-13T14:05:10.321Z - normal: Simulator: 
+2018-08-13T14:05:10.322Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:05:10.322Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:05:10.322Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:05:10.323Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:05:10.473Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:05:10.808Z - normal: Simulator: iShow!
+2018-08-13T14:05:11.206Z - normal: Simulator: JS: InitScene: 3.466000000000008ms
+2018-08-13T14:05:11.207Z - normal: Simulator: JS: AutoRelease: 0.18399999999996908ms
+2018-08-13T14:05:11.207Z - normal: Simulator: JS: Destroy: 0.1330000000000382ms
+2018-08-13T14:05:11.208Z - normal: Simulator: JS: AttachPersist: 0.005999999999971806ms
+2018-08-13T14:05:11.293Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:05:11.294Z - normal: Simulator: JS: Activate: 78.346ms
+2018-08-13T14:05:13.413Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:05:13.414Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:05:13.415Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:13.415Z - normal: Simulator: STACK:
+2018-08-13T14:05:13.415Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:13.415Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:13.416Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:13.416Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:13.416Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:13.416Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:13.416Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:13.417Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:13.417Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:13.417Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:14.222Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:14.222Z - normal: Simulator: STACK:
+2018-08-13T14:05:14.222Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:14.222Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:14.223Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:14.223Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:14.223Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:14.223Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:14.225Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:14.225Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:14.225Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:14.225Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:14.878Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:14.879Z - normal: Simulator: STACK:
+2018-08-13T14:05:14.879Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:14.880Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:14.880Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:14.880Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:14.880Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:14.881Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:14.881Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:14.881Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:14.881Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:14.881Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:15.141Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.142Z - normal: Simulator: STACK:
+2018-08-13T14:05:15.142Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.143Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:15.143Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:15.143Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:15.144Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:15.144Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:15.144Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:15.144Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:15.145Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:15.145Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:15.332Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.333Z - normal: Simulator: STACK:
+2018-08-13T14:05:15.336Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.337Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:15.338Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:15.339Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:15.339Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:15.340Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:15.340Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:15.340Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:15.340Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:15.341Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:15.549Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.551Z - normal: Simulator: STACK:
+2018-08-13T14:05:15.552Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.552Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:15.552Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:15.553Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:15.553Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:15.553Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:15.553Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:15.553Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:15.554Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:15.554Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:15.685Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.686Z - normal: Simulator: STACK:
+2018-08-13T14:05:15.687Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.687Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:15.687Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:15.688Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:15.688Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:15.689Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:15.689Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:15.689Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:15.690Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:15.690Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:15.872Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.875Z - normal: Simulator: STACK:
+2018-08-13T14:05:15.875Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:15.875Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:15.876Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:15.876Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:15.876Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:15.877Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:15.877Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:15.877Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:15.877Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:15.878Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:16.038Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.039Z - normal: Simulator: STACK:
+2018-08-13T14:05:16.039Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.040Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:16.040Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:16.040Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:16.041Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:16.041Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:16.041Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:16.042Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:16.042Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:16.042Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:16.198Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.198Z - normal: Simulator: STACK:
+2018-08-13T14:05:16.199Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.202Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:16.203Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:16.203Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:16.205Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:16.206Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:16.206Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:16.206Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:16.206Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:16.207Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:16.350Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.350Z - normal: Simulator: STACK:
+2018-08-13T14:05:16.354Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.355Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:16.356Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:16.357Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:16.357Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:16.358Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:16.358Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:16.358Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:16.359Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:16.364Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:16.495Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.497Z - normal: Simulator: STACK:
+2018-08-13T14:05:16.497Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.498Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:16.498Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:16.498Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:16.498Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:16.499Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:16.499Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:16.499Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:16.499Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:16.499Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:16.656Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.657Z - normal: Simulator: STACK:
+2018-08-13T14:05:16.657Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:16.657Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:16.657Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:16.657Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:16.658Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:16.658Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:16.658Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:16.658Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:16.659Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:16.659Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:33.837Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:05:33.870Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:05:33.873Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:05:33.904Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:05:33.904Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:05:34.077Z - normal: Simulator: 
+2018-08-13T14:05:34.080Z - normal: Simulator: {
+2018-08-13T14:05:34.082Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:05:34.083Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:05:34.084Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:05:34.084Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:05:34.084Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:05:34.084Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:05:34.085Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:05:34.085Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:05:34.085Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:05:34.085Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:05:34.086Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:05:34.086Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:05:34.086Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:05:34.086Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:05:34.087Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:05:34.087Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:05:34.087Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:05:34.087Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:05:34.088Z - normal: Simulator: }
+2018-08-13T14:05:34.088Z - normal: Simulator: 
+2018-08-13T14:05:34.088Z - normal: Simulator: 
+2018-08-13T14:05:34.088Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:05:34.088Z - normal: Simulator: Project Config:
+2018-08-13T14:05:34.089Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:05:34.089Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:05:34.089Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:05:34.089Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:05:34.089Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:05:34.090Z - normal: Simulator:     show console: NO
+2018-08-13T14:05:34.090Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:05:34.090Z - normal: Simulator:     listen: 
+2018-08-13T14:05:34.091Z - normal: Simulator:     debugger: none
+2018-08-13T14:05:34.091Z - normal: Simulator:     add searching path:
+2018-08-13T14:05:34.122Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:05:34.124Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:05:34.124Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:05:34.125Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:05:34.254Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:05:34.519Z - normal: Simulator: iShow!
+2018-08-13T14:05:34.910Z - normal: Simulator: JS: InitScene: 3.7049999999999272ms
+2018-08-13T14:05:34.912Z - normal: Simulator: JS: AutoRelease: 0.22699999999997544ms
+2018-08-13T14:05:34.912Z - normal: Simulator: JS: Destroy: 0.19200000000000728ms
+2018-08-13T14:05:34.912Z - normal: Simulator: JS: AttachPersist: 0.01999999999998181ms
+2018-08-13T14:05:34.989Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:05:34.990Z - normal: Simulator: JS: Activate: 72.25799999999992ms
+2018-08-13T14:05:36.209Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:05:36.210Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:05:36.211Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:36.211Z - normal: Simulator: STACK:
+2018-08-13T14:05:36.212Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:36.212Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:36.213Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:36.213Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:36.213Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:36.214Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:36.214Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:36.214Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:36.214Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:36.215Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:37.625Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:37.625Z - normal: Simulator: STACK:
+2018-08-13T14:05:37.625Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:37.626Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:37.626Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:37.626Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:37.627Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:37.628Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:37.629Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:37.629Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:37.630Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:37.630Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:38.153Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.154Z - normal: Simulator: STACK:
+2018-08-13T14:05:38.155Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.155Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:38.156Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:38.156Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:38.156Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:38.156Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:38.156Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:38.157Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:38.157Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:38.157Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:38.419Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.420Z - normal: Simulator: STACK:
+2018-08-13T14:05:38.421Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.421Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:38.421Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:38.421Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:38.422Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:38.422Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:38.422Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:38.422Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:38.423Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:38.423Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:38.624Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.625Z - normal: Simulator: STACK:
+2018-08-13T14:05:38.625Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.625Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:38.625Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:38.626Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:38.626Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:38.626Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:38.626Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:38.627Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:38.627Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:38.628Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:38.809Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.810Z - normal: Simulator: STACK:
+2018-08-13T14:05:38.810Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:38.812Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:38.813Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:38.815Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:38.815Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:38.816Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:38.816Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:38.816Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:38.817Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:38.817Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:39.569Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:39.570Z - normal: Simulator: STACK:
+2018-08-13T14:05:39.570Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:39.570Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:39.570Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:39.571Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:39.572Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:39.572Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:39.573Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:39.573Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:39.573Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:39.573Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:39.748Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:39.749Z - normal: Simulator: STACK:
+2018-08-13T14:05:39.750Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:39.750Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:39.750Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:39.750Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:39.750Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:39.751Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:39.751Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:39.751Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:39.751Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:39.751Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:39.922Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:39.923Z - normal: Simulator: STACK:
+2018-08-13T14:05:39.924Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:39.924Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:39.924Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:39.924Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:39.925Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:39.925Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:39.925Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:39.926Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:39.926Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:39.926Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:40.292Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:40.292Z - normal: Simulator: STACK:
+2018-08-13T14:05:40.293Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:40.293Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:40.294Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:40.294Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:40.294Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:40.294Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:40.295Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:40.296Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:40.297Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:40.297Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:40.491Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:40.492Z - normal: Simulator: STACK:
+2018-08-13T14:05:40.492Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:40.492Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:40.493Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:40.493Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:40.493Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:40.493Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:40.493Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:40.494Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:40.494Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:40.494Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:05:40.699Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:51:17
+2018-08-13T14:05:40.700Z - normal: Simulator: STACK:
+2018-08-13T14:05:40.700Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:51:17
+2018-08-13T14:05:40.700Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:05:40.700Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:05:40.700Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:05:40.700Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:05:40.701Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:05:40.701Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:05:40.701Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:05:40.701Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:05:40.701Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:06:06.486Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:06:06.487Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:06:06.488Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:06:06.488Z - normal: Simulator: 
+2018-08-13T14:06:06.488Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:06:06.488Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:06:06.669Z - normal: Simulator: 
+2018-08-13T14:06:06.670Z - normal: Simulator: {
+2018-08-13T14:06:06.672Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:06:06.674Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:06:06.680Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:06:06.704Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:06:06.704Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:06:06.705Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:06:06.705Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:06:06.705Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:06:06.705Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:06:06.706Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:06:06.706Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:06:06.706Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:06:06.706Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:06:06.707Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:06:06.707Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:06:06.707Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:06:06.707Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:06:06.707Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:06:06.708Z - normal: Simulator: }
+2018-08-13T14:06:06.708Z - normal: Simulator: 
+2018-08-13T14:06:06.708Z - normal: Simulator: 
+2018-08-13T14:06:06.708Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:06:06.714Z - normal: Simulator: Project Config:
+2018-08-13T14:06:06.714Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:06:06.714Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:06:06.715Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:06:06.715Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:06:06.715Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:06:06.715Z - normal: Simulator:     show console: NO
+2018-08-13T14:06:06.716Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:06:06.716Z - normal: Simulator:     listen: 
+2018-08-13T14:06:06.716Z - normal: Simulator:     debugger: none
+2018-08-13T14:06:06.716Z - normal: Simulator:     add searching path:
+2018-08-13T14:06:06.717Z - normal: Simulator: 
+2018-08-13T14:06:06.717Z - normal: Simulator: 
+2018-08-13T14:06:06.717Z - normal: Simulator: 
+2018-08-13T14:06:06.718Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:06:06.719Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:06:06.719Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:06:06.719Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:06:06.900Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:06:07.300Z - normal: Simulator: iShow!
+2018-08-13T14:06:07.893Z - normal: Simulator: JS: InitScene: 4.870999999999867ms
+2018-08-13T14:06:07.897Z - normal: Simulator: JS: AutoRelease: 0.21000000000003638ms
+2018-08-13T14:06:07.902Z - normal: Simulator: JS: Destroy: 0.1069999999999709ms
+2018-08-13T14:06:07.905Z - normal: Simulator: JS: AttachPersist: 0.005999999999858119ms
+2018-08-13T14:06:07.909Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:06:07.911Z - normal: Simulator: JS: Activate: 75.1260000000002ms
+2018-08-13T14:06:22.332Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:06:22.337Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:06:22.338Z - normal: Simulator: JS: 13213131313123123131231
+2018-08-13T14:06:22.359Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Game.js:52:17
+2018-08-13T14:06:22.360Z - normal: Simulator: STACK:
+2018-08-13T14:06:22.360Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:52:17
+2018-08-13T14:06:22.360Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:06:22.361Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:06:22.361Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:06:22.361Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:06:22.361Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:06:22.361Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:06:22.362Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:06:22.362Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:06:22.362Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:07:03.554Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:07:03.555Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:07:03.559Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:07:03.648Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:07:03.648Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:07:03.851Z - normal: Simulator: 
+2018-08-13T14:07:03.853Z - normal: Simulator: {
+2018-08-13T14:07:03.855Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:07:03.856Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:07:03.856Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:07:03.857Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:07:03.857Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:07:03.857Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:07:03.857Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:07:03.859Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:07:03.860Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:07:03.862Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:07:03.865Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:07:03.866Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:07:03.867Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:07:03.867Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:07:03.867Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:07:03.868Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:07:03.868Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:07:03.868Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:07:03.869Z - normal: Simulator: }
+2018-08-13T14:07:03.869Z - normal: Simulator: 
+2018-08-13T14:07:03.869Z - normal: Simulator: 
+2018-08-13T14:07:03.870Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:07:03.871Z - normal: Simulator: Project Config:
+2018-08-13T14:07:03.871Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:07:03.872Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:07:03.880Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:07:03.881Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:07:03.882Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:07:03.882Z - normal: Simulator:     show console: NO
+2018-08-13T14:07:03.882Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:07:03.883Z - normal: Simulator:     listen: 
+2018-08-13T14:07:03.883Z - normal: Simulator:     debugger: none
+2018-08-13T14:07:03.883Z - normal: Simulator:     add searching path:
+2018-08-13T14:07:03.884Z - normal: Simulator: 
+2018-08-13T14:07:03.885Z - normal: Simulator: 
+2018-08-13T14:07:03.938Z - normal: Simulator: 
+2018-08-13T14:07:03.939Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:07:03.940Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:07:03.940Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:07:03.940Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:07:04.053Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:07:04.410Z - normal: Simulator: iShow!
+2018-08-13T14:07:05.076Z - normal: Simulator: JS: InitScene: 3.2000000000000455ms
+2018-08-13T14:07:05.081Z - normal: Simulator: JS: AutoRelease: 0.21900000000005093ms
+2018-08-13T14:07:05.081Z - normal: Simulator: JS: Destroy: 0.10400000000004184ms
+2018-08-13T14:07:05.082Z - normal: Simulator: JS: AttachPersist: 0.0060000000000854925ms
+2018-08-13T14:07:05.084Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:07:05.085Z - normal: Simulator: JS: Activate: 75.62300000000005ms
+2018-08-13T14:07:06.716Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:07:06.716Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:07:06.716Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Shop.js:33:13
+2018-08-13T14:07:06.717Z - normal: Simulator: STACK:
+2018-08-13T14:07:06.717Z - normal: Simulator: closeShop@assets/scripts/Shop.js:33:13
+2018-08-13T14:07:06.717Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:54:32
+2018-08-13T14:07:06.717Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:07:06.717Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:07:06.718Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:07:06.718Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:07:06.718Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:07:06.720Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:07:06.720Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:07:06.720Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:07:06.721Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:07:13.290Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Shop.js:33:13
+2018-08-13T14:07:13.290Z - normal: Simulator: STACK:
+2018-08-13T14:07:13.296Z - normal: Simulator: closeShop@assets/scripts/Shop.js:33:13
+2018-08-13T14:07:13.297Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:54:32
+2018-08-13T14:07:13.298Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:07:13.298Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:07:13.299Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:07:13.299Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:07:13.299Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:07:13.299Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:07:13.299Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:07:13.300Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:07:13.300Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:07:38.411Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:07:38.413Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:07:38.431Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:07:38.433Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:07:38.433Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:07:38.753Z - normal: Simulator: 
+2018-08-13T14:07:38.753Z - normal: Simulator: {
+2018-08-13T14:07:38.754Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:07:38.755Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:07:38.755Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:07:38.757Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:07:38.758Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:07:38.758Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:07:38.759Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:07:38.760Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:07:38.760Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:07:38.761Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:07:38.761Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:07:38.762Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:07:38.762Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:07:38.763Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:07:38.764Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:07:38.765Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:07:38.765Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:07:38.766Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:07:38.766Z - normal: Simulator: }
+2018-08-13T14:07:38.767Z - normal: Simulator: 
+2018-08-13T14:07:38.767Z - normal: Simulator: 
+2018-08-13T14:07:38.768Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:07:38.768Z - normal: Simulator: Project Config:
+2018-08-13T14:07:38.768Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:07:38.768Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:07:38.768Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:07:38.769Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:07:38.769Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:07:38.772Z - normal: Simulator:     show console: NO
+2018-08-13T14:07:38.773Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:07:38.775Z - normal: Simulator:     listen: 
+2018-08-13T14:07:38.776Z - normal: Simulator:     debugger: none
+2018-08-13T14:07:38.777Z - normal: Simulator:     add searching path:
+2018-08-13T14:07:38.778Z - normal: Simulator: 
+2018-08-13T14:07:38.778Z - normal: Simulator: 
+2018-08-13T14:07:38.778Z - normal: Simulator: 
+2018-08-13T14:07:38.779Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:07:38.779Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:07:38.779Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:07:38.780Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:07:38.885Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:07:39.231Z - normal: Simulator: iShow!
+2018-08-13T14:07:39.869Z - normal: Simulator: JS: InitScene: 6.538000000000011ms
+2018-08-13T14:07:39.870Z - normal: Simulator: JS: AutoRelease: 0.45600000000013097ms
+2018-08-13T14:07:39.870Z - normal: Simulator: JS: Destroy: 0.18399999999996908ms
+2018-08-13T14:07:39.871Z - normal: Simulator: JS: AttachPersist: 0.011999999999943611ms
+2018-08-13T14:07:39.902Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:07:39.902Z - normal: Simulator: JS: Activate: 104.1289999999999ms
+2018-08-13T14:07:43.150Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:07:43.150Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:07:43.151Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Shop.js:33:13
+2018-08-13T14:07:43.151Z - normal: Simulator: STACK:
+2018-08-13T14:07:43.151Z - normal: Simulator: closeShop@assets/scripts/Shop.js:33:13
+2018-08-13T14:07:43.152Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:54:32
+2018-08-13T14:07:43.152Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:07:43.152Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:07:43.153Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:07:43.153Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:07:43.155Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:07:43.157Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:07:43.157Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:07:43.158Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:07:43.158Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:10:19.741Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:10:19.743Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:10:19.743Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:10:19.744Z - normal: Simulator: 
+2018-08-13T14:10:19.744Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:10:19.744Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:10:19.911Z - normal: Simulator: 
+2018-08-13T14:10:19.911Z - normal: Simulator: {
+2018-08-13T14:10:19.911Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:10:19.912Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:10:19.913Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:10:19.913Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:10:19.914Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:10:19.914Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:10:19.915Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:10:19.915Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:10:19.915Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:10:19.916Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:10:19.916Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:10:19.917Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:10:19.917Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:10:19.918Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:10:19.920Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:10:19.921Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:10:19.921Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:10:19.922Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:10:19.923Z - normal: Simulator: }
+2018-08-13T14:10:19.923Z - normal: Simulator: 
+2018-08-13T14:10:19.924Z - normal: Simulator: 
+2018-08-13T14:10:19.925Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:10:19.926Z - normal: Simulator: Project Config:
+2018-08-13T14:10:19.927Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:10:19.927Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:10:19.927Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:10:19.928Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:10:19.928Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:10:19.929Z - normal: Simulator:     show console: NO
+2018-08-13T14:10:19.930Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:10:19.930Z - normal: Simulator:     listen: 
+2018-08-13T14:10:19.930Z - normal: Simulator:     debugger: none
+2018-08-13T14:10:19.931Z - normal: Simulator:     add searching path:
+2018-08-13T14:10:19.931Z - normal: Simulator: 
+2018-08-13T14:10:19.931Z - normal: Simulator: 
+2018-08-13T14:10:19.931Z - normal: Simulator: 
+2018-08-13T14:10:19.932Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:10:19.932Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:10:19.933Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:10:19.933Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:10:20.189Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:10:20.375Z - normal: Simulator: iShow!
+2018-08-13T14:10:20.767Z - normal: Simulator: JS: InitScene: 4.622999999999934ms
+2018-08-13T14:10:20.768Z - normal: Simulator: JS: AutoRelease: 0.2960000000000491ms
+2018-08-13T14:10:20.768Z - normal: Simulator: JS: Destroy: 0.1230000000000473ms
+2018-08-13T14:10:20.769Z - normal: Simulator: JS: AttachPersist: 0.006999999999948159ms
+2018-08-13T14:10:20.863Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:10:20.864Z - normal: Simulator: JS: Activate: 94.803ms
+2018-08-13T14:10:32.779Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:10:32.784Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:10:32.785Z - normal: Simulator: ERROR: ReferenceError: Can't find variable: self, location: assets/scripts/Shop.js:28:13
+2018-08-13T14:10:32.785Z - normal: Simulator: STACK:
+2018-08-13T14:10:32.786Z - normal: Simulator: showShop@assets/scripts/Shop.js:28:13
+2018-08-13T14:10:32.786Z - normal: Simulator: shopButtonClicked@assets/scripts/Game.js:52:31
+2018-08-13T14:10:32.786Z - normal: Simulator: emit@src/jsb_polyfill.js:5863:24
+2018-08-13T14:10:32.786Z - normal: Simulator: emitEvents@src/jsb_polyfill.js:5848:25
+2018-08-13T14:10:32.787Z - normal: Simulator: _onTouchEnded@src/jsb_polyfill.js:5430:49
+2018-08-13T14:10:32.787Z - normal: Simulator: invoke@src/jsb_polyfill.js:10862:28
+2018-08-13T14:10:32.788Z - normal: Simulator: _doDispatchEvent@src/jsb_polyfill.js:10908:109
+2018-08-13T14:10:32.788Z - normal: Simulator: dispatchEvent@src/jsb_polyfill.js:11025:25
+2018-08-13T14:10:32.789Z - normal: Simulator: _touchEndHandler@src/jsb_polyfill.js:2173:27
+2018-08-13T14:10:32.789Z - normal: Simulator: jsb: ERROR: File /Users/nantas/fireball-x/cocos2d-x-lite_19_release/cocos/scripting/js-bindings/manual/jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-08-13T14:10:32.789Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-08-13T14:11:51.893Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:11:51.898Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:11:51.910Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:11:51.948Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:11:51.950Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:11:52.318Z - normal: Simulator: 
+2018-08-13T14:11:52.318Z - normal: Simulator: {
+2018-08-13T14:11:52.319Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:11:52.321Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:11:52.321Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:11:52.321Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:11:52.322Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:11:52.322Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:11:52.322Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:11:52.322Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:11:52.323Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:11:52.323Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:11:52.323Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:11:52.323Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:11:52.330Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:11:52.330Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:11:52.330Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:11:52.330Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:11:52.331Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:11:52.331Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:11:52.331Z - normal: Simulator: }
+2018-08-13T14:11:52.331Z - normal: Simulator: 
+2018-08-13T14:11:52.331Z - normal: Simulator: 
+2018-08-13T14:11:52.332Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:11:52.332Z - normal: Simulator: Project Config:
+2018-08-13T14:11:52.332Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:11:52.332Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:11:52.333Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:11:52.333Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:11:52.333Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:11:52.333Z - normal: Simulator:     show console: NO
+2018-08-13T14:11:52.333Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:11:52.334Z - normal: Simulator:     listen: 
+2018-08-13T14:11:52.334Z - normal: Simulator:     debugger: none
+2018-08-13T14:11:52.334Z - normal: Simulator:     add searching path:
+2018-08-13T14:11:52.334Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:11:52.335Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:11:52.335Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:11:52.335Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:11:52.335Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:11:52.662Z - normal: Simulator: iShow!
+2018-08-13T14:11:53.100Z - normal: Simulator: JS: InitScene: 4.58299999999997ms
+2018-08-13T14:11:53.106Z - normal: Simulator: JS: AutoRelease: 0.6570000000000391ms
+2018-08-13T14:11:53.108Z - normal: Simulator: JS: Destroy: 0.15099999999995362ms
+2018-08-13T14:11:53.109Z - normal: Simulator: JS: AttachPersist: 0.006999999999948159ms
+2018-08-13T14:11:53.225Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:11:53.225Z - normal: Simulator: JS: Activate: 122.57100000000003ms
+2018-08-13T14:13:30.391Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:13:30.396Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:13:30.420Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:13:30.421Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:13:30.421Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:13:30.786Z - normal: Simulator: 
+2018-08-13T14:13:30.787Z - normal: Simulator: {
+2018-08-13T14:13:30.787Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:13:30.788Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:13:30.790Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:13:30.790Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:13:30.791Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:13:30.791Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:13:30.791Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:13:30.798Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:13:30.799Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:13:30.799Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:13:30.799Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:13:30.799Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:13:30.799Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:13:30.800Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:13:30.800Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:13:30.800Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:13:30.800Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:13:30.801Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:13:30.801Z - normal: Simulator: }
+2018-08-13T14:13:30.801Z - normal: Simulator: 
+2018-08-13T14:13:30.801Z - normal: Simulator: 
+2018-08-13T14:13:30.802Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:13:30.860Z - normal: Simulator: Project Config:
+2018-08-13T14:13:30.861Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:13:30.861Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:13:30.862Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:13:30.863Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:13:30.863Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:13:30.863Z - normal: Simulator:     show console: NO
+2018-08-13T14:13:30.864Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:13:30.865Z - normal: Simulator:     listen: 
+2018-08-13T14:13:30.865Z - normal: Simulator:     debugger: none
+2018-08-13T14:13:30.865Z - normal: Simulator:     add searching path:
+2018-08-13T14:13:30.865Z - normal: Simulator: 
+2018-08-13T14:13:30.866Z - normal: Simulator: 
+2018-08-13T14:13:30.866Z - normal: Simulator: 
+2018-08-13T14:13:30.866Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:13:30.866Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:13:30.866Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:13:30.867Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:13:31.104Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:13:31.314Z - normal: Simulator: iShow!
+2018-08-13T14:13:31.620Z - normal: Simulator: JS: InitScene: 3.8150000000000546ms
+2018-08-13T14:13:31.620Z - normal: Simulator: JS: AutoRelease: 0.36400000000003274ms
+2018-08-13T14:13:31.620Z - normal: Simulator: JS: Destroy: 0.11000000000001364ms
+2018-08-13T14:13:31.621Z - normal: Simulator: JS: AttachPersist: 0.005999999999971806ms
+2018-08-13T14:13:31.853Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:13:31.853Z - normal: Simulator: JS: Activate: 75.46199999999999ms
+2018-08-13T14:14:29.424Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:14:29.426Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:14:29.427Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:14:29.427Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:14:29.428Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:14:29.771Z - normal: Simulator: 
+2018-08-13T14:14:29.771Z - normal: Simulator: {
+2018-08-13T14:14:29.771Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:14:29.771Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:14:29.772Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:14:29.772Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:14:29.772Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:14:29.772Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:14:29.773Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:14:29.773Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:14:29.773Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:14:29.773Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:14:29.774Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:14:29.774Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:14:29.774Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:14:29.774Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:14:29.774Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:14:29.775Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:14:29.775Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:14:29.775Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:14:29.775Z - normal: Simulator: }
+2018-08-13T14:14:29.776Z - normal: Simulator: 
+2018-08-13T14:14:29.776Z - normal: Simulator: 
+2018-08-13T14:14:29.776Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:14:29.776Z - normal: Simulator: Project Config:
+2018-08-13T14:14:29.777Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:14:29.777Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:14:29.777Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:14:29.777Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:14:29.777Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:14:29.778Z - normal: Simulator:     show console: NO
+2018-08-13T14:14:29.778Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:14:29.778Z - normal: Simulator:     listen: 
+2018-08-13T14:14:29.778Z - normal: Simulator:     debugger: none
+2018-08-13T14:14:29.778Z - normal: Simulator:     add searching path:
+2018-08-13T14:14:29.779Z - normal: Simulator: 
+2018-08-13T14:14:29.779Z - normal: Simulator: 
+2018-08-13T14:14:29.779Z - normal: Simulator: 
+2018-08-13T14:14:29.779Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:14:29.779Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:14:29.780Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:14:29.780Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:14:29.839Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:14:30.191Z - normal: Simulator: iShow!
+2018-08-13T14:14:30.740Z - normal: Simulator: JS: InitScene: 4.763999999999896ms
+2018-08-13T14:14:30.742Z - normal: Simulator: JS: AutoRelease: 0.6549999999999727ms
+2018-08-13T14:14:30.743Z - normal: Simulator: JS: Destroy: 0.41200000000003456ms
+2018-08-13T14:14:30.743Z - normal: Simulator: JS: AttachPersist: 0.032999999999901775ms
+2018-08-13T14:14:30.817Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:14:30.817Z - normal: Simulator: JS: Activate: 73.4960000000001ms
+2018-08-13T14:14:33.165Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:14:33.166Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:14:33.166Z - normal: Simulator: JS: hide
+2018-08-13T14:14:34.593Z - normal: Simulator: JS: hide
+2018-08-13T14:14:35.259Z - normal: Simulator: JS: hide
+2018-08-13T14:14:35.476Z - normal: Simulator: JS: hide
+2018-08-13T14:14:35.666Z - normal: Simulator: JS: hide
+2018-08-13T14:14:35.841Z - normal: Simulator: JS: hide
+2018-08-13T14:14:36.094Z - normal: Simulator: JS: hide
+2018-08-13T14:14:36.308Z - normal: Simulator: JS: hide
+2018-08-13T14:14:36.463Z - normal: Simulator: JS: hide
+2018-08-13T14:14:36.659Z - normal: Simulator: JS: hide
+2018-08-13T14:14:36.845Z - normal: Simulator: JS: hide
+2018-08-13T14:14:37.027Z - normal: Simulator: JS: hide
+2018-08-13T14:14:37.386Z - normal: Simulator: JS: hide
+2018-08-13T14:15:01.871Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:15:01.876Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:15:01.878Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:15:01.879Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:15:01.879Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:15:01.894Z - normal: Simulator: 
+2018-08-13T14:15:01.895Z - normal: Simulator: {
+2018-08-13T14:15:01.895Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:15:01.895Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:15:01.896Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:15:01.896Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:15:01.897Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:15:01.897Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:15:01.897Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:15:01.898Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:15:01.900Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:15:01.901Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:15:01.904Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:15:01.904Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:15:01.905Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:15:01.907Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:15:01.909Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:15:01.910Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:15:01.910Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:15:01.911Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:15:01.912Z - normal: Simulator: }
+2018-08-13T14:15:01.914Z - normal: Simulator: 
+2018-08-13T14:15:01.915Z - normal: Simulator: 
+2018-08-13T14:15:01.915Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:15:01.916Z - normal: Simulator: Project Config:
+2018-08-13T14:15:01.917Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:15:01.917Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:15:01.919Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:15:01.920Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:15:01.921Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:15:01.922Z - normal: Simulator:     show console: NO
+2018-08-13T14:15:01.923Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:15:01.926Z - normal: Simulator:     listen: 
+2018-08-13T14:15:01.926Z - normal: Simulator:     debugger: none
+2018-08-13T14:15:01.926Z - normal: Simulator:     add searching path:
+2018-08-13T14:15:01.927Z - normal: Simulator: 
+2018-08-13T14:15:01.927Z - normal: Simulator: 
+2018-08-13T14:15:01.927Z - normal: Simulator: 
+2018-08-13T14:15:01.928Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:15:01.928Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:15:01.928Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:15:01.929Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:15:01.949Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:15:01.978Z - normal: Simulator: iShow!
+2018-08-13T14:15:02.080Z - normal: Simulator: JS: InitScene: 6.7309999999999945ms
+2018-08-13T14:15:02.080Z - normal: Simulator: JS: AutoRelease: 0.27099999999995816ms
+2018-08-13T14:15:02.080Z - normal: Simulator: JS: Destroy: 0.11300000000005639ms
+2018-08-13T14:15:02.081Z - normal: Simulator: JS: AttachPersist: 0.0060000000000854925ms
+2018-08-13T14:15:02.198Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:15:02.200Z - normal: Simulator: JS: Activate: 117.42100000000005ms
+2018-08-13T14:15:07.997Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:15:07.998Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:15:07.998Z - normal: Simulator: JS: hide
+2018-08-13T14:15:08.661Z - normal: Simulator: JS: hide
+2018-08-13T14:15:09.660Z - normal: Simulator: JS: hide
+2018-08-13T14:15:10.696Z - normal: Simulator: JS: hide
+2018-08-13T14:15:21.636Z - normal: Simulator: JS: hide
+2018-08-13T14:15:22.133Z - normal: Simulator: JS: hide
+2018-08-13T14:15:22.299Z - normal: Simulator: JS: hide
+2018-08-13T14:15:22.451Z - normal: Simulator: JS: hide
+2018-08-13T14:15:22.601Z - normal: Simulator: JS: hide
+2018-08-13T14:15:27.225Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:15:27.226Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:15:27.226Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:15:27.237Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:15:27.239Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:15:27.442Z - normal: Simulator: 
+2018-08-13T14:15:27.443Z - normal: Simulator: {
+2018-08-13T14:15:27.445Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:15:27.446Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:15:27.446Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:15:27.449Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:15:27.451Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:15:27.453Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:15:27.457Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:15:27.458Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:15:27.458Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:15:27.458Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:15:27.459Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:15:27.459Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:15:27.460Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:15:27.460Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:15:27.461Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:15:27.461Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:15:27.462Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:15:27.462Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:15:27.462Z - normal: Simulator: }
+2018-08-13T14:15:27.463Z - normal: Simulator: 
+2018-08-13T14:15:27.464Z - normal: Simulator: 
+2018-08-13T14:15:27.465Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:15:27.468Z - normal: Simulator: Project Config:
+2018-08-13T14:15:27.470Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:15:27.473Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:15:27.473Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:15:27.473Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:15:27.474Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:15:27.474Z - normal: Simulator:     show console: NO
+2018-08-13T14:15:27.474Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:15:27.474Z - normal: Simulator:     listen: 
+2018-08-13T14:15:27.475Z - normal: Simulator:     debugger: none
+2018-08-13T14:15:27.475Z - normal: Simulator:     add searching path:
+2018-08-13T14:15:27.475Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:15:27.476Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:15:27.476Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:15:27.476Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:15:27.597Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:15:27.892Z - normal: Simulator: iShow!
+2018-08-13T14:15:28.305Z - normal: Simulator: JS: InitScene: 3.4990000000000236ms
+2018-08-13T14:15:28.306Z - normal: Simulator: JS: AutoRelease: 0.16300000000001091ms
+2018-08-13T14:15:28.306Z - normal: Simulator: JS: Destroy: 0.09500000000002728ms
+2018-08-13T14:15:28.306Z - normal: Simulator: JS: AttachPersist: 0.0060000000000854925ms
+2018-08-13T14:15:28.404Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:15:28.404Z - normal: Simulator: JS: Activate: 91.78200000000004ms
+2018-08-13T14:15:30.440Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:15:30.440Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:15:30.441Z - normal: Simulator: JS: hide
+2018-08-13T14:15:31.436Z - normal: Simulator: JS: hide
+2018-08-13T14:15:31.905Z - normal: Simulator: JS: hide
+2018-08-13T14:15:32.173Z - normal: Simulator: JS: hide
+2018-08-13T14:15:32.358Z - normal: Simulator: JS: hide
+2018-08-13T14:15:32.777Z - normal: Simulator: JS: hide
+2018-08-13T14:15:32.778Z - normal: Simulator: JS: hide
+2018-08-13T14:15:32.943Z - normal: Simulator: JS: hide
+2018-08-13T14:15:33.122Z - normal: Simulator: JS: hide
+2018-08-13T14:15:33.290Z - normal: Simulator: JS: hide
+2018-08-13T14:15:33.515Z - normal: Simulator: JS: hide
+2018-08-13T14:15:33.707Z - normal: Simulator: JS: hide
+2018-08-13T14:15:33.911Z - normal: Simulator: JS: hide
+2018-08-13T14:15:34.104Z - normal: Simulator: JS: hide
+2018-08-13T14:15:34.323Z - normal: Simulator: JS: hide
+2018-08-13T14:15:35.104Z - normal: Simulator: JS: hide
+2018-08-13T14:15:35.458Z - normal: Simulator: JS: hide
+2018-08-13T14:16:13.427Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:16:13.427Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:16:13.427Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:16:13.431Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:16:13.432Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:16:13.664Z - normal: Simulator: 
+2018-08-13T14:16:13.665Z - normal: Simulator: {
+2018-08-13T14:16:13.665Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:16:13.666Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:16:13.666Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:16:13.666Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:16:13.667Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:16:13.667Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:16:13.668Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:16:13.670Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:16:13.673Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:16:13.676Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:16:13.678Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:16:13.678Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:16:13.679Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:16:13.679Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:16:13.679Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:16:13.679Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:16:13.680Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:16:13.680Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:16:13.680Z - normal: Simulator: }
+2018-08-13T14:16:13.680Z - normal: Simulator: 
+2018-08-13T14:16:13.681Z - normal: Simulator: 
+2018-08-13T14:16:13.681Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:16:13.682Z - normal: Simulator: Project Config:
+2018-08-13T14:16:13.682Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:16:13.683Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:16:13.684Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:16:13.686Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:16:13.689Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:16:13.690Z - normal: Simulator:     show console: NO
+2018-08-13T14:16:13.733Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:16:13.734Z - normal: Simulator:     listen: 
+2018-08-13T14:16:13.734Z - normal: Simulator:     debugger: none
+2018-08-13T14:16:13.735Z - normal: Simulator:     add searching path:
+2018-08-13T14:16:13.735Z - normal: Simulator: 
+2018-08-13T14:16:13.735Z - normal: Simulator: 
+2018-08-13T14:16:13.736Z - normal: Simulator: 
+2018-08-13T14:16:13.736Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:16:13.736Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:16:13.737Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:16:13.737Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:16:13.857Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:16:14.171Z - normal: Simulator: iShow!
+2018-08-13T14:16:14.752Z - normal: Simulator: JS: InitScene: 2.774000000000001ms
+2018-08-13T14:16:14.754Z - normal: Simulator: JS: AutoRelease: 0.2799999999999727ms
+2018-08-13T14:16:14.758Z - normal: Simulator: JS: Destroy: 0.17300000000000182ms
+2018-08-13T14:16:14.760Z - normal: Simulator: JS: AttachPersist: 0.006999999999948159ms
+2018-08-13T14:16:14.763Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:16:14.764Z - normal: Simulator: JS: Activate: 71.97499999999991ms
+2018-08-13T14:16:20.048Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:16:20.049Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:16:20.049Z - normal: Simulator: JS: hide
+2018-08-13T14:16:20.612Z - normal: Simulator: JS: hide
+2018-08-13T14:16:21.547Z - normal: Simulator: JS: hide
+2018-08-13T14:16:22.047Z - normal: Simulator: JS: hide
+2018-08-13T14:16:22.501Z - normal: Simulator: JS: hide
+2018-08-13T14:16:22.716Z - normal: Simulator: JS: hide
+2018-08-13T14:16:22.948Z - normal: Simulator: JS: hide
+2018-08-13T14:16:23.164Z - normal: Simulator: JS: hide
+2018-08-13T14:16:23.349Z - normal: Simulator: JS: hide
+2018-08-13T14:16:23.548Z - normal: Simulator: JS: hide
+2018-08-13T14:16:24.153Z - normal: Simulator: JS: hide
+2018-08-13T14:16:24.833Z - normal: Simulator: JS: hide
+2018-08-13T14:17:08.029Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:17:08.042Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:17:08.045Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:08.047Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:08.048Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:08.279Z - normal: Simulator: 
+2018-08-13T14:17:08.279Z - normal: Simulator: {
+2018-08-13T14:17:08.281Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:17:08.282Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:17:08.282Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:08.282Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:17:08.283Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:17:08.283Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:17:08.283Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:17:08.283Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:17:08.284Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:17:08.285Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:17:08.287Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:17:08.288Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:17:08.290Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:17:08.292Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:17:08.293Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:17:08.294Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:17:08.294Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:17:08.295Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:17:08.295Z - normal: Simulator: }
+2018-08-13T14:17:08.295Z - normal: Simulator: 
+2018-08-13T14:17:08.295Z - normal: Simulator: 
+2018-08-13T14:17:08.295Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:17:08.296Z - normal: Simulator: Project Config:
+2018-08-13T14:17:08.296Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:17:08.296Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:17:08.296Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:17:08.296Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:17:08.297Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:17:08.297Z - normal: Simulator:     show console: NO
+2018-08-13T14:17:08.297Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:17:08.297Z - normal: Simulator:     listen: 
+2018-08-13T14:17:08.298Z - normal: Simulator:     debugger: none
+2018-08-13T14:17:08.298Z - normal: Simulator:     add searching path:
+2018-08-13T14:17:08.298Z - normal: Simulator: 
+2018-08-13T14:17:08.298Z - normal: Simulator: 
+2018-08-13T14:17:08.298Z - normal: Simulator: 
+2018-08-13T14:17:08.299Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:08.300Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:17:08.301Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:08.304Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:17:08.411Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:08.688Z - normal: Simulator: iShow!
+2018-08-13T14:17:09.111Z - normal: Simulator: JS: InitScene: 2.941000000000031ms
+2018-08-13T14:17:09.112Z - normal: Simulator: JS: AutoRelease: 0.16599999999993997ms
+2018-08-13T14:17:09.114Z - normal: Simulator: JS: Destroy: 0.07299999999997908ms
+2018-08-13T14:17:09.114Z - normal: Simulator: JS: AttachPersist: 0.0049999999999954525ms
+2018-08-13T14:17:09.210Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:17:09.211Z - normal: Simulator: JS: Activate: 97.88199999999995ms
+2018-08-13T14:17:13.090Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:17:13.091Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:17:13.091Z - normal: Simulator: JS: hide
+2018-08-13T14:17:30.950Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:17:30.951Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:17:30.961Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:30.965Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:30.966Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:31.296Z - normal: Simulator: 
+2018-08-13T14:17:31.297Z - normal: Simulator: {
+2018-08-13T14:17:31.298Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:17:31.299Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:17:31.299Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:31.299Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:17:31.299Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:17:31.299Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:17:31.300Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:17:31.300Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:17:31.300Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:17:31.300Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:17:31.300Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:17:31.301Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:17:31.301Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:17:31.301Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:17:31.301Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:17:31.301Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:17:31.302Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:17:31.302Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:17:31.302Z - normal: Simulator: }
+2018-08-13T14:17:31.302Z - normal: Simulator: 
+2018-08-13T14:17:31.302Z - normal: Simulator: 
+2018-08-13T14:17:31.303Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:17:31.303Z - normal: Simulator: Project Config:
+2018-08-13T14:17:31.303Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:17:31.303Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:17:31.304Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:17:31.304Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:17:31.304Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:17:31.304Z - normal: Simulator:     show console: NO
+2018-08-13T14:17:31.305Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:17:31.305Z - normal: Simulator:     listen: 
+2018-08-13T14:17:31.305Z - normal: Simulator:     debugger: none
+2018-08-13T14:17:31.305Z - normal: Simulator:     add searching path:
+2018-08-13T14:17:31.306Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:31.306Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:17:31.306Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:31.306Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:17:31.576Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:31.831Z - normal: Simulator: iShow!
+2018-08-13T14:17:32.450Z - normal: Simulator: JS: InitScene: 13.58400000000006ms
+2018-08-13T14:17:32.451Z - normal: Simulator: JS: AutoRelease: 0.28099999999994907ms
+2018-08-13T14:17:32.451Z - normal: Simulator: JS: Destroy: 0.1850000000001728ms
+2018-08-13T14:17:32.456Z - normal: Simulator: JS: AttachPersist: 0.006999999999834472ms
+2018-08-13T14:17:32.477Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:17:32.479Z - normal: Simulator: JS: Activate: 82.298ms
+2018-08-13T14:17:36.491Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:17:36.492Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:17:36.492Z - normal: Simulator: JS: hide
+2018-08-13T14:17:39.653Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:17:39.657Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:17:39.662Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:39.696Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:39.703Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:39.934Z - normal: Simulator: 
+2018-08-13T14:17:39.938Z - normal: Simulator: {
+2018-08-13T14:17:39.940Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:17:39.943Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:17:39.944Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:39.944Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:17:39.944Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:17:39.945Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:17:39.945Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:17:39.945Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:17:39.946Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:17:39.946Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:17:39.946Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:17:39.947Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:17:39.947Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:17:39.947Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:17:39.948Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:17:39.948Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:17:39.948Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:17:39.949Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:17:39.949Z - normal: Simulator: }
+2018-08-13T14:17:39.950Z - normal: Simulator: 
+2018-08-13T14:17:39.951Z - normal: Simulator: 
+2018-08-13T14:17:39.952Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:17:39.956Z - normal: Simulator: Project Config:
+2018-08-13T14:17:39.957Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:17:39.957Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:17:39.958Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:17:39.958Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:17:39.958Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:17:39.958Z - normal: Simulator:     show console: NO
+2018-08-13T14:17:39.959Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:17:39.959Z - normal: Simulator:     listen: 
+2018-08-13T14:17:39.959Z - normal: Simulator:     debugger: none
+2018-08-13T14:17:39.959Z - normal: Simulator:     add searching path:
+2018-08-13T14:17:39.975Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:39.975Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:17:39.976Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:39.976Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:17:40.101Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:40.387Z - normal: Simulator: iShow!
+2018-08-13T14:17:40.829Z - normal: Simulator: JS: InitScene: 4.639999999999986ms
+2018-08-13T14:17:40.829Z - normal: Simulator: JS: AutoRelease: 0.4089999999999918ms
+2018-08-13T14:17:40.830Z - normal: Simulator: JS: Destroy: 0.1209999999999809ms
+2018-08-13T14:17:40.830Z - normal: Simulator: JS: AttachPersist: 0.006999999999948159ms
+2018-08-13T14:17:40.912Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:17:40.913Z - normal: Simulator: JS: Activate: 82.29600000000005ms
+2018-08-13T14:17:57.058Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:17:57.059Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:17:57.123Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:57.130Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:57.132Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:17:57.441Z - normal: Simulator: 
+2018-08-13T14:17:57.441Z - normal: Simulator: {
+2018-08-13T14:17:57.442Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:17:57.442Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:17:57.442Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:57.442Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:17:57.443Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:17:57.443Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:17:57.443Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:17:57.443Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:17:57.443Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:17:57.444Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:17:57.444Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:17:57.444Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:17:57.444Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:17:57.445Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:17:57.445Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:17:57.445Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:17:57.445Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:17:57.446Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:17:57.446Z - normal: Simulator: }
+2018-08-13T14:17:57.446Z - normal: Simulator: 
+2018-08-13T14:17:57.447Z - normal: Simulator: 
+2018-08-13T14:17:57.447Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:17:57.447Z - normal: Simulator: Project Config:
+2018-08-13T14:17:57.447Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:17:57.448Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:17:57.448Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:17:57.448Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:17:57.448Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:17:57.448Z - normal: Simulator:     show console: NO
+2018-08-13T14:17:57.448Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:17:57.449Z - normal: Simulator:     listen: 
+2018-08-13T14:17:57.449Z - normal: Simulator:     debugger: none
+2018-08-13T14:17:57.449Z - normal: Simulator:     add searching path:
+2018-08-13T14:17:57.449Z - normal: Simulator: 
+2018-08-13T14:17:57.450Z - normal: Simulator: 
+2018-08-13T14:17:57.450Z - normal: Simulator: 
+2018-08-13T14:17:57.450Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:57.451Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:17:57.451Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:17:57.451Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:17:57.513Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:17:57.859Z - normal: Simulator: iShow!
+2018-08-13T14:17:58.324Z - normal: Simulator: JS: InitScene: 3.824999999999932ms
+2018-08-13T14:17:58.324Z - normal: Simulator: JS: AutoRelease: 0.22100000000000364ms
+2018-08-13T14:17:58.327Z - normal: Simulator: JS: Destroy: 0.09799999999995634ms
+2018-08-13T14:17:58.330Z - normal: Simulator: JS: AttachPersist: 0.0049999999999954525ms
+2018-08-13T14:17:58.417Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:17:58.417Z - normal: Simulator: JS: Activate: 88.86399999999992ms
+2018-08-13T14:17:59.699Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:17:59.699Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:17:59.700Z - normal: Simulator: JS: undefined
+2018-08-13T14:18:15.998Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:18:16.005Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:18:16.033Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:18:16.054Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:18:16.056Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:18:16.412Z - normal: Simulator: 
+2018-08-13T14:18:16.412Z - normal: Simulator: {
+2018-08-13T14:18:16.413Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:18:16.413Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:18:16.413Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:18:16.414Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:18:16.414Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:18:16.414Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:18:16.415Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:18:16.415Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:18:16.415Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:18:16.415Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:18:16.416Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:18:16.416Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:18:16.417Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:18:16.418Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:18:16.418Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:18:16.418Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:18:16.419Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:18:16.419Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:18:16.419Z - normal: Simulator: }
+2018-08-13T14:18:16.419Z - normal: Simulator: 
+2018-08-13T14:18:16.425Z - normal: Simulator: 
+2018-08-13T14:18:16.425Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:18:16.425Z - normal: Simulator: Project Config:
+2018-08-13T14:18:16.426Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:18:16.426Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:18:16.428Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:18:16.428Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:18:16.428Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:18:16.428Z - normal: Simulator:     show console: NO
+2018-08-13T14:18:16.429Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:18:16.429Z - normal: Simulator:     listen: 
+2018-08-13T14:18:16.429Z - normal: Simulator:     debugger: none
+2018-08-13T14:18:16.429Z - normal: Simulator:     add searching path:
+2018-08-13T14:18:16.430Z - normal: Simulator: 
+2018-08-13T14:18:16.430Z - normal: Simulator: 
+2018-08-13T14:18:16.430Z - normal: Simulator: 
+2018-08-13T14:18:16.430Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:18:16.431Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:18:16.431Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:18:16.431Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:18:16.431Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:18:16.805Z - normal: Simulator: iShow!
+2018-08-13T14:18:17.229Z - normal: Simulator: JS: InitScene: 4.578999999999951ms
+2018-08-13T14:18:17.230Z - normal: Simulator: JS: AutoRelease: 0.21899999999993724ms
+2018-08-13T14:18:17.230Z - normal: Simulator: JS: Destroy: 0.0989999999999327ms
+2018-08-13T14:18:17.230Z - normal: Simulator: JS: AttachPersist: 0.005999999999971806ms
+2018-08-13T14:18:17.326Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:18:17.326Z - normal: Simulator: JS: Activate: 95.35899999999992ms
+2018-08-13T14:18:18.363Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:18:18.364Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:18:18.364Z - normal: Simulator: JS: false
+2018-08-13T14:18:21.344Z - normal: Simulator: JS: false
+2018-08-13T14:18:21.710Z - normal: Simulator: JS: false
+2018-08-13T14:18:21.992Z - normal: Simulator: JS: false
+2018-08-13T14:18:22.193Z - normal: Simulator: JS: false
+2018-08-13T14:18:22.381Z - normal: Simulator: JS: false
+2018-08-13T14:18:22.560Z - normal: Simulator: JS: false
+2018-08-13T14:18:22.994Z - normal: Simulator: JS: false
+2018-08-13T14:18:23.177Z - normal: Simulator: JS: false
+2018-08-13T14:18:41.941Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
+2018-08-13T14:18:41.941Z - normal: Simulator: FRAME SCALE = 1.00
+2018-08-13T14:18:41.950Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:18:41.967Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:18:41.974Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-08-13T14:18:42.244Z - normal: Simulator: 
+2018-08-13T14:18:42.244Z - normal: Simulator: {
+2018-08-13T14:18:42.244Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-08-13T14:18:42.245Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-08-13T14:18:42.245Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-08-13T14:18:42.245Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-08-13T14:18:42.246Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-08-13T14:18:42.246Z - normal: Simulator: 	gl.renderer: Intel Iris OpenGL Engine
+2018-08-13T14:18:42.246Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-08-13T14:18:42.246Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-08-13T14:18:42.247Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-08-13T14:18:42.247Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-08-13T14:18:42.247Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-08-13T14:18:42.248Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-08-13T14:18:42.248Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-08-13T14:18:42.249Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-08-13T14:18:42.252Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-08-13T14:18:42.254Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.19
+2018-08-13T14:18:42.257Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-08-13T14:18:42.258Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-08-13T14:18:42.259Z - normal: Simulator: }
+2018-08-13T14:18:42.259Z - normal: Simulator: 
+2018-08-13T14:18:42.259Z - normal: Simulator: 
+2018-08-13T14:18:42.260Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-08-13T14:18:42.260Z - normal: Simulator: Project Config:
+2018-08-13T14:18:42.260Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-08-13T14:18:42.261Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-08-13T14:18:42.261Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-08-13T14:18:42.262Z - normal: Simulator:     frame size: 960 x 640
+2018-08-13T14:18:42.263Z - normal: Simulator:     frame scale: 1.00
+2018-08-13T14:18:42.264Z - normal: Simulator:     show console: NO
+2018-08-13T14:18:42.265Z - normal: Simulator:     write debug log: NO ()
+2018-08-13T14:18:42.267Z - normal: Simulator:     listen: 
+2018-08-13T14:18:42.269Z - normal: Simulator:     debugger: none
+2018-08-13T14:18:42.270Z - normal: Simulator:     add searching path:
+2018-08-13T14:18:42.270Z - normal: Simulator: 
+2018-08-13T14:18:42.270Z - normal: Simulator: 
+2018-08-13T14:18:42.270Z - normal: Simulator: 
+2018-08-13T14:18:42.271Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:18:42.271Z - normal: Simulator: LOAD Js FILE: main.js
+2018-08-13T14:18:42.316Z - normal: Simulator: ------------------------------------------------
+2018-08-13T14:18:42.317Z - normal: Simulator: Initializing JavaScriptCore 
+2018-08-13T14:18:42.424Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-08-13T14:18:42.778Z - normal: Simulator: iShow!
+2018-08-13T14:18:43.246Z - normal: Simulator: JS: InitScene: 3.050999999999931ms
+2018-08-13T14:18:43.246Z - normal: Simulator: JS: AutoRelease: 0.2480000000000473ms
+2018-08-13T14:18:43.247Z - normal: Simulator: JS: Destroy: 0.0929999999998472ms
+2018-08-13T14:18:43.249Z - normal: Simulator: JS: AttachPersist: 0.004999999999881766ms
+2018-08-13T14:18:43.334Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-08-13T14:18:43.336Z - normal: Simulator: JS: Activate: 86.77800000000002ms
+2018-08-13T14:18:44.491Z - normal: Simulator: V/AudioCache (248): Orignal total frames: 5184, adjust frames: 529, current total frames: 5713
+2018-08-13T14:18:44.491Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5713, total read frames: 5184, adjust frames: 529, remainingFrames: 529
+2018-08-13T14:18:44.492Z - normal: Simulator: JS: show
+2018-08-13T14:18:45.240Z - normal: Simulator: JS: false
+2018-08-13T14:18:45.809Z - normal: Simulator: JS: show
+2018-08-13T14:18:46.324Z - normal: Simulator: JS: false
+2018-08-13T14:18:46.704Z - normal: Simulator: JS: show
+2018-08-13T14:18:47.141Z - normal: Simulator: JS: false
+2018-08-13T14:18:47.390Z - normal: Simulator: JS: show
+2018-08-13T14:18:47.925Z - normal: Simulator: JS: false
+2018-08-13T14:18:48.592Z - normal: Simulator: JS: show
+2018-08-13T14:18:50.325Z - normal: Simulator: JS: false
+2018-08-13T14:18:51.368Z - normal: Simulator: JS: show
+2018-08-13T14:18:52.245Z - normal: Simulator: JS: false
+2018-08-13T14:18:52.642Z - normal: Simulator: JS: show
+2018-08-13T14:18:53.191Z - normal: Simulator: JS: false
+2018-08-13T14:18:53.609Z - normal: Simulator: JS: show
+2018-08-13T14:18:54.208Z - normal: Simulator: JS: false
+2018-08-13T14:18:54.743Z - normal: Simulator: JS: show
+2018-08-13T14:18:55.544Z - normal: Simulator: JS: false
+2018-08-13T14:18:55.913Z - normal: Simulator: JS: show
+2018-08-13T14:18:57.512Z - normal: Simulator: JS: false
+2018-08-13T14:18:57.730Z - normal: Simulator: JS: show
+2018-08-13T14:18:58.178Z - normal: Simulator: JS: false

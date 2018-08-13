@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_background",
+    "texture": "146fbf43-d80c-4584-a599-3c81677074d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      1178
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      1178
+    ]
+  }
+}
