@@ -7,6 +7,7 @@
 // Learn life-cycle callbacks:
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
+var playData = require('./common/playerData');
 
 cc.Class({
     extends: cc.Component,
@@ -76,12 +77,18 @@ cc.Class({
     },
 
     onLoad: function() {
+        this.initPlayData();
         this.audioManager = this.audioManager.getComponent('AudioManager');
         this.audioManager.playHomeBGM();
     },
 
     loadGameScene: function() {
         cc.director.loadScene('Game');
+    },
+
+    initPlayData: function() {
+        console.log(playData);
+        playData.workerCount = 10;
     },
 
 
