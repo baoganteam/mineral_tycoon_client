@@ -866,7 +866,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 22,
       "height": 40
     },
     "_rotationX": 0,
@@ -875,7 +875,7 @@
     "_scaleY": 0.6,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -2,
+      "x": 1,
       "y": 5
     },
     "_skewX": 0,
@@ -901,8 +901,8 @@
     "_N$file": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
-    "_N$string": "9999",
-    "_N$horizontalAlign": 1,
+    "_N$string": "0",
+    "_N$horizontalAlign": 2,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
     "_N$overflow": 0
@@ -1154,7 +1154,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 22,
       "height": 40
     },
     "_rotationX": 0,
@@ -1163,8 +1163,8 @@
     "_scaleY": 0.6,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 258,
-      "y": 4.9
+      "x": 260,
+      "y": 5
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -1189,8 +1189,8 @@
     "_N$file": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
-    "_N$string": "9999",
-    "_N$horizontalAlign": 1,
+    "_N$string": "0",
+    "_N$horizontalAlign": 2,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
     "_N$overflow": 0
@@ -1501,7 +1501,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "MapIdx1Background",
+    "_name": "MiningView",
     "_objFlags": 0,
     "_parent": {
       "__id__": 35
@@ -1586,7 +1586,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 39
@@ -2307,6 +2307,15 @@
     },
     "shop": {
       "__id__": 38
+    },
+    "userGlodView": {
+      "__id__": 18
+    },
+    "userDiamondView": {
+      "__id__": 25
+    },
+    "miningView": {
+      "__id__": 36
     }
   },
   {
