@@ -15,19 +15,22 @@ cc.Class({
 
     },
 
-    // LIFE-CYCLE CALLBACKS:
-
-    onLoad () {
-        this.node.active = false;    
-    },
-
     showShop(){
         this.node.active = true;
     },
 
     closeShop: function(){
         this.node.active = false;
-    }
+    },
+
+    byWorker(){
+
+    },
+    // LIFE-CYCLE CALLBACKS:
+
+    onLoad () {
+        this.node.active = false;    
+    },
     // start () {
 
     // },
