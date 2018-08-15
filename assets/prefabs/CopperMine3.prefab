@@ -10,7 +10,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "CopperMine3",
+    "_name": "KS3",
     "_objFlags": 0,
     "_parent": null,
     "_children": [],
@@ -94,7 +94,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "2fKHXdiqRMqbu8kbqajIfi",
+    "fileId": "b67G/KCHdIpZAxb3IYTgRU",
     "sync": false
   }
 ]

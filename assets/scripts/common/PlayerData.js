@@ -12,7 +12,7 @@ module.exports = {
     //当前解锁的最高等级地图
     mapUnlockLevel: 1,
     //当前生产力
-    curProlificacy: 0,
+    curProlificacy: 1,
     //用户总收藏品个数
     totalCollectionCount: 0,
     //工人头部装备等级
@@ -37,6 +37,8 @@ module.exports = {
     collectionAchievement: 0,
     //地图成就等级
     mapAchievement: 0,
+    //生产效率
+    coinProductivity: 5,
     //工人列表
     workerList: [],
     //藏品列表

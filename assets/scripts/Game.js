@@ -84,8 +84,15 @@ cc.Class({
         this.audioManager.playHomeBGM();
         this.userGlodView = this.userGlodView.getChildByName('UserGlodView');
         this.userDiamondView = this.userDiamondView.getChildByName('UserDiamondView');
+
         this.shop = this.shop.getComponent('Shop');
 
+
+        //初始化采矿计时器
+        this.miningScheduleCallback = function() {
+        	this.updateUserGold();
+        }
+        this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
         //初始化当前界面显示
         this.updateUserGoldView();
         this.updateUserDiamondView();
@@ -112,17 +119,19 @@ cc.Class({
     },
 
     //根据当前生产力更新用户金币
-    updateUserGold: function(dt) {
-        
-        playerData.coinCount = playerData.coinCount + 1000;
-        //console.log(dt);
+    updateUserGold: function() {
+        playerData.coinCount = playerData.coinCount + playerData.curProlificacy*10;
+    },
+
+    //当玩家生产效率提高后，更新定时器
+    updateMiningScheduler: function(){
+    	this.unschedule(this.miningScheduleCallback);
+    	this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
     },
 
 
     //-- 更新
     update (dt) {
-        //更新用户金币
-        this.updateUserGold(dt);
         //更新用户金币和钻石
         this.updateUserGoldView();
         this.updateUserDiamondView();
