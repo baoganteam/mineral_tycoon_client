@@ -1658,7 +1658,10 @@
     },
     "copperMineType4Prefab": {
       "__uuid__": "3d2f8105-32cd-472d-ac76-ab6e44a7887a"
-    }
+    },
+    "curMineralAmount": 0,
+    "totalMineralAmount": 100000,
+    "mineralGenerationRate": 100
   },
   {
     "__type__": "cc.Sprite",
