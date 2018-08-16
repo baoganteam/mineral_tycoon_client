@@ -31,6 +31,11 @@ cc.Class({
             type: cc.Node
         },
 
+        //工人管理
+        workerManager: {
+            default: null,
+            type: cc.Node
+        },
         //用户金币展示
         userGlodView: {
             default: null,
@@ -71,12 +76,19 @@ cc.Class({
     shopButtonClicked() {
         if(this.shop.node.active == false){
             this.shop.showShop();
-            console.log('show');
         }else{
             this.shop.closeShop();
-            console.log(this.shop.node.active);
         }
     },
+
+    workerManagerButtonClicked() {
+        if(this.workerManager.node.active == false){
+            this.workerManager.showWorkerManager();
+        }else{
+            this.workerManager.closeWorkerManager();
+        }
+    },
+    
 
     //场景初始化
     onLoad: function() {
@@ -86,7 +98,7 @@ cc.Class({
         this.userDiamondView = this.userDiamondView.getChildByName('UserDiamondView');
 
         this.shop = this.shop.getComponent('Shop');
-
+        this.workerManager = this.workerManager.getComponent('WorkerManager');
 
         //初始化采矿计时器
         this.miningScheduleCallback = function() {
@@ -129,6 +141,10 @@ cc.Class({
     	this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
     },
 
+    //添加worker到地图中
+    addWorkerToMap(){
+
+    },
 
     //-- 更新
     update (dt) {

@@ -8,34 +8,20 @@
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
 
-//worker
-var worker = require('./common/PlayerWorkerInfo');
-var playerData = require('./common/playerData');
 cc.Class({
     extends: cc.Component,
 
-    properties: {
-
-    },
-
-    showShop(){
+    showWorkerManager(){
         this.node.active = true;
     },
 
-    closeShop: function(){
+    closeWorkerManager: function(){
         this.node.active = false;
     },
+    
+    start () {
 
-    byWorker(){
-        playerData.workerList.push(worker);
     },
-    // LIFE-CYCLE CALLBACKS:
-
-    onLoad () {
-    },
-    // start () {
-
-    // },
 
     // update (dt) {},
 });
