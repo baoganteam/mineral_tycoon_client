@@ -89,10 +89,8 @@ cc.Class({
         return this.minePos;
     },
 
-    updateMiningInfo: function(miningInfo) {
-        for (let i=0; i< miningInfo.length; i++) {
-          this.minePos[miningInfo[i]].isMining = true;
-        }
+    updateMiningInfo: function(miningId, data) {
+        this.minePos[miningId].isMining = data;
     }
 
     // update (dt) {},

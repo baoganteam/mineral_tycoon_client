@@ -21,7 +21,7 @@ module.exports = {
             x: 50,
             y: -100,
             workerX: 120,
-            workerY: -130,
+            workerY: -120,
             type: 2,
             isMining: false,
             miningDirection: 1
@@ -30,7 +30,7 @@ module.exports = {
             x: 250,
             y: -255,
             workerX: 180,
-            workerY: -285,
+            workerY: -265,
             type: 3,
             isMining: false,
             miningDirection: 0
@@ -39,7 +39,7 @@ module.exports = {
             x: -200,
             y: -345,
             workerX: -270,
-            workerY: -375,
+            workerY: -315,
             type: 4,
             isMining: false,
             miningDirection: 0
@@ -48,7 +48,7 @@ module.exports = {
             x: 100,
             y: -407,
             workerX: 170,
-            workerY: -437,
+            workerY: -407,
             type: 3,
             isMining: false,
             miningDirection: 1

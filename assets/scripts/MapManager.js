@@ -57,7 +57,6 @@ cc.Class({
         }
         let minePosInfo = this.getCurMapMinePosInfo();
         console.log(playWorkerInfo);
-        let mapMineingInfo = new Array();
         for(let i=0; i < playWorkerInfo.length; i++){
             let workerId = playWorkerInfo[i].workerId;
             let workerStatus = playWorkerInfo[i].curStatus;
@@ -70,12 +69,11 @@ cc.Class({
                                 newWorker.setPosition(cc.v2(v.workerX, v.workerY));
                             }else{
                                 newWorker.setPosition(cc.v2(v.workerX, v.workerY));
-                                newWorker.setFlippedX(true);
+                                newWorker.scaleX = -1;
                             }
-                            
+                            this.updateMiningInfo(k, true);
                             this.curActiveMap.addChild(newWorker);
                             this.workerPrefabList[workerId] = newWorker;
-                            mapMineingInfo.push(k);
                             break;
                         }
                     }
@@ -85,14 +83,11 @@ cc.Class({
                 if (workerStatus === 0) {
                     this.workerPrefabList[workerId].getComponent('Worker').doDestroy();
                     delete this.workerPrefabList[workerId];
+                    this.updateMiningInfo(k, false);
                 }
             }
 
         }    
-        console.log(mapMineingInfo);
-        //更新此地图工人位置数据
-        this.updateMiningInfo(mapMineingInfo);
-        
     },
 
     
