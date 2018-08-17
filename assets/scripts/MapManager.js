@@ -12,6 +12,86 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
+        map1: {
+        	default: null,
+        	type: cc.Node
+        },
+
+        workerPrefab: {
+            default: null,
+            type: cc.Prefab
+        },
+    },
+
+    changeMap: function(index) {
+    	if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
+    		this.curActiveMap.active = false;
+    	}
+    	switch(index){
+    		case 1:
+    			this.curActiveMap = this.map1;
+    			this.curActiveMap.active = true;
+    			break;
+    	}
+    },
+
+    getCurMapMinePosInfo: function() {
+        if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
+             this.mapInterface = this.curActiveMap.getComponent('MapConfig');
+             return this.mapInterface.getAllMinePos();
+        }else{
+            return null;
+        }
+    },
+
+    updateMiningInfo: function(miningInfo) {
+        if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
+             this.curActiveMap.getComponent('MapConfig').updateMiningInfo(miningInfo);
+        }
+    },
+
+    //更新worker到地图中,玩家的工人列表数据修改后可以直接调用此方法更新地图上工人的显示
+    updateWorkerToMap: function(playWorkerInfo){
+        if (typeof(this.workerPrefabList) == "undefined" || this.workerPrefabList == null) {
+            this.workerPrefabList = new Object();
+        }
+        let minePosInfo = this.getCurMapMinePosInfo();
+        console.log(playWorkerInfo);
+        let mapMineingInfo = new Array();
+        for(let i=0; i < playWorkerInfo.length; i++){
+            let workerId = playWorkerInfo[i].workerId;
+            let workerStatus = playWorkerInfo[i].curStatus;
+            if (this.workerPrefabList[workerId] == null) {
+                if (workerStatus == 1) {
+                    var newWorker = cc.instantiate(this.workerPrefab);
+                    for (let [k, v] of Object.entries(minePosInfo)) {
+                        if (v.isMining == false) {
+                            if (v.miningDirection == 0) {
+                                newWorker.setPosition(cc.v2(v.workerX, v.workerY));
+                            }else{
+                                newWorker.setPosition(cc.v2(v.workerX, v.workerY));
+                                newWorker.setFlippedX(true);
+                            }
+                            
+                            this.curActiveMap.addChild(newWorker);
+                            this.workerPrefabList[workerId] = newWorker;
+                            mapMineingInfo.push(k);
+                            break;
+                        }
+                    }
+                }
+            }else{
+                //销毁worker
+                if (workerStatus === 0) {
+                    this.workerPrefabList[workerId].getComponent('Worker').doDestroy();
+                    delete this.workerPrefabList[workerId];
+                }
+            }
+
+        }    
+        console.log(mapMineingInfo);
+        //更新此地图工人位置数据
+        this.updateMiningInfo(mapMineingInfo);
         
     },
 

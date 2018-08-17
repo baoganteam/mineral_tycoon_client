@@ -54,7 +54,6 @@ cc.Class({
             type: cc.Node
         }
 
-
     },
 
 
@@ -99,7 +98,9 @@ cc.Class({
 
         this.shop = this.shop.getComponent('Shop');
         this.workerManager = this.workerManager.getComponent('WorkerManager');
-
+        this.miningView = this.miningView.getComponent('MapManager');
+        this.miningView.changeMap(playerData.curUseMap);
+        this.miningView.updateWorkerToMap(playerData.workerList);
         //初始化采矿计时器
         this.miningScheduleCallback = function() {
         	this.updateUserGold();
@@ -141,10 +142,6 @@ cc.Class({
     	this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
     },
 
-    //添加worker到地图中
-    addWorkerToMap(){
-
-    },
 
     //-- 更新
     update (dt) {

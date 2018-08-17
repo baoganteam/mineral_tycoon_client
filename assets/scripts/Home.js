@@ -86,9 +86,20 @@ cc.Class({
         cc.director.loadScene('Game');
     },
 
+    //初始化玩家数据
     initPlayData: function() {
         console.log(playData);
-        playData.workerCount = 10;
+        playData.workerCount = 2;
+        let newWorker = {
+            workerId: 1,
+            workerLevel: 1,
+            health: 100,
+            prolificacy: 1,
+            curStatus: 1
+        };
+        playData.workerList.push(newWorker);
+
+
     },
 
 
