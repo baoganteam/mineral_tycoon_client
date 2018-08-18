@@ -52,6 +52,16 @@ cc.Class({
         miningView: {
             default: null,
             type: cc.Node
+        },
+
+        playerProlificacyBuffView: {
+            default: null,
+            type: cc.Node
+        },
+
+        playerLuckyBuffView: {
+            default: null,
+            type: cc.Node
         }
 
     },
@@ -99,16 +109,21 @@ cc.Class({
         this.shop = this.shop.getComponent('Shop');
         this.workerManager = this.workerManager.getComponent('WorkerManager');
         this.miningView = this.miningView.getComponent('MapManager');
-        this.miningView.changeMap(playerData.curUseMap);
+        this.miningView.changeMap(playerData.curUseMap, playerData.mapList[playerData.curUseMap]);
         this.miningView.updateWorkerToMap(playerData.workerList);
         //初始化采矿计时器
         this.miningScheduleCallback = function() {
-        	this.updateUserGold();
+        	this.updateMiningData();
         }
         this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
         //初始化当前界面显示
         this.updateUserGoldView();
         this.updateUserDiamondView();
+
+        //加buff
+        //TODO: 这里只是加数据，上线后需要删除
+        this.addProlificacyBuff();
+        this.addLuckyBuff();    
     },
 
     //更新用户金币数显示栏
@@ -131,9 +146,19 @@ cc.Class({
         this.userDiamondView.getComponent(cc.Label).string = playerData.diamondCount;
     },
 
-    //根据当前生产力更新用户金币
-    updateUserGold: function() {
-        playerData.coinCount = playerData.coinCount + playerData.curProlificacy*10;
+    //根据当前生产力更新用户金币与地图上剩余矿量
+    updateMiningData: function() {
+        let curMapInfo = playerData.mapList[playerData.curUseMap];
+        if (curMapInfo.curMineralAmount > 0) {
+            playerData.coinCount = playerData.coinCount + playerData.curProlificacy*5;
+            let mineDecCount = (playerData.curProlificacy - curMapInfo.mineralGenerationRate > 0 ? playerData.curProlificacy - curMapInfo.mineralGenerationRate : 1)*5;
+            curMapInfo.curMineralAmount = curMapInfo.curMineralAmount - mineDecCount;
+            if (curMapInfo.curMineralAmount < 0) {
+                curMapInfo.curMineralAmount = 0;
+            }
+            this.miningView.updateCurMapMineRemaingAmountInfo(curMapInfo.curMineralAmount);
+        }
+        
     },
 
     //当玩家生产效率提高后，更新定时器
@@ -142,12 +167,74 @@ cc.Class({
     	this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
     },
 
+    //加生产力buff
+    addProlificacyBuff: function() {
+        let pBuff = {
+            buffDuration: 60,
+            buffRemaining: 60
+        };
+        playerData.buffList['p'] = pBuff;
+        this.schedule(function() {
+                let pBuffInfo = playerData.buffList['p'];
+                if (pBuffInfo.buffRemaining > 0) {
+                    pBuffInfo.buffRemaining = pBuffInfo.buffRemaining - 1;
+                }
+            }, 
+            1, pBuff.buffDuration);
+    },
+
+    //加幸运值buff
+    addLuckyBuff: function() {
+        let lBuff = {
+            buffDuration: 60,
+            buffRemaining: 60
+        }
+        playerData.buffList['l'] = lBuff;
+
+        this.schedule(function() {
+                let lBuffInfo = playerData.buffList['l'];
+                if (lBuffInfo.buffRemaining > 0) {
+                    lBuffInfo.buffRemaining = lBuffInfo.buffRemaining - 1;
+                }
+            }, 
+            1, lBuff.buffDuration);
+    },
+
+    updateProlificacyBuffView: function() {
+        let buffInfo = playerData.buffList['p'];
+        if (buffInfo != null) {
+            let buffTotalDuration = buffInfo.buffDuration;
+            let buffRemaingDuration = buffInfo.buffRemaining;
+            let progress = (buffRemaingDuration/buffTotalDuration).toFixed(2);
+            let pBuffLabel = this.playerProlificacyBuffView.getChildByName('MiningBuffLabel').getComponent(cc.Label);
+            pBuffLabel.string = `生产力加成效果剩余时间: ${buffRemaingDuration}s`;
+            let pBuffBar = this.playerProlificacyBuffView.getChildByName('MiningBuffBar').getComponent(cc.ProgressBar);
+            pBuffBar.progress = progress
+        }      
+    },
+
+    updateLuckyBuffView: function() {
+        let buffInfo = playerData.buffList['l'];
+        if (buffInfo != null) {
+            let buffTotalDuration = buffInfo.buffDuration;
+            let buffRemaingDuration = buffInfo.buffRemaining;
+            let progress = (buffRemaingDuration/buffTotalDuration).toFixed(2);
+            let pBuffLabel = this.playerLuckyBuffView.getChildByName('MiningLuckyBuffLabel').getComponent(cc.Label);
+            pBuffLabel.string = `幸运值加成效果剩余时间: ${buffRemaingDuration}s`;
+            let pBuffBar = this.playerLuckyBuffView.getChildByName('MiningLuckyBuffBar').getComponent(cc.ProgressBar);
+            pBuffBar.progress = progress
+        }   
+    },
+
 
     //-- 更新
     update (dt) {
         //更新用户金币和钻石
         this.updateUserGoldView();
         this.updateUserDiamondView();
+        //更新玩家buff剩余时间显示
+        this.updateProlificacyBuffView();
+        this.updateLuckyBuffView();
 
     }
 

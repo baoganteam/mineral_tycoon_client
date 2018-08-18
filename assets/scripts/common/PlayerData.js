@@ -23,9 +23,9 @@ module.exports = {
     equipment3Level: 0,
     //工人下身装备等级
     equipment4Level: 0,
-    //工人脚步装备等级
+    //工人工具装备等级
     equipment5Level: 0,
-    //工人工具等级
+    //当前幸运值
     curLuckValue: 0,
     //当前玩家使用的地图编号
     curUseMap: 1,
@@ -44,6 +44,16 @@ module.exports = {
     //藏品列表
     collectionList: {},
     //地图列表
-    mapList: {}
+    mapList: {},
+
+    //buff类型: p生产力buff l幸运值buff
+    //buff总时长
+    //buffDuration: 0,
+    //buff剩余时长
+    //buffRemaining: 0
+    buffList: {
+
+    }
+    
 
 };

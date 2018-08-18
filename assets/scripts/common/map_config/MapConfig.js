@@ -31,11 +31,11 @@ cc.Class({
 
         mapIndex: 0,
 
-        curMineralAmount: 100000,
+        curMineralAmount: 0,
 
-        totalMineralAmount: 100000,
+        totalMineralAmount: 0,
 
-        mineralGenerationRate: 100
+        mineralGenerationRate: 0
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -89,8 +89,32 @@ cc.Class({
         return this.minePos;
     },
 
+    //更新地图上矿点工人分布
     updateMiningInfo: function(miningId, data) {
         this.minePos[miningId].isMining = data;
+    },
+
+    updateMapProperty: function(mapData) {
+        this.curMineralAmount = mapData.curMineralAmount;
+        this.totalMineralAmount = mapData.totalMineralAmount;
+        this.mineralGenerationRate = mapData.curMineralAmount;
+    },
+
+    //更新地图上当前剩余矿量
+    updateCurMineAmount: function(mineAmount) {
+        this.curMineralAmount = mineAmount;
+    },
+
+    getCurMapTotalMineAmount: function() {
+        return this.totalMineralAmount;
+    },
+
+    getCurMapRemainingMineAmount: function() {
+        return this.curMineralAmount;
+    },
+
+    getCurMapMineGenerationRate: function() {
+        return this.mineralGenerationRate;
     }
 
     // update (dt) {},

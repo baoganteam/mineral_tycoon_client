@@ -21,9 +21,24 @@ cc.Class({
             default: null,
             type: cc.Prefab
         },
+
+        mineRemaingView: {
+            default: null,
+            type: cc.Node
+        }
+        
     },
 
-    changeMap: function(index) {
+    onLoad: function() {
+        if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
+            this.curActiveMap = this.map1;
+        }
+        this.workerPrefabList = new Object();
+        this.curMineRemaingView = this.mineRemaingView;
+
+    },
+
+    changeMap: function(index, playerMapData) {
     	if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
     		this.curActiveMap.active = false;
     	}
@@ -31,19 +46,21 @@ cc.Class({
     		case 1:
     			this.curActiveMap = this.map1;
     			this.curActiveMap.active = true;
+                this.curActiveMap.getComponent('MapConfig').updateMapProperty(playerMapData);
     			break;
     	}
     },
 
     getCurMapMinePosInfo: function() {
         if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
-             this.mapInterface = this.curActiveMap.getComponent('MapConfig');
-             return this.mapInterface.getAllMinePos();
+             let mapInterface = this.curActiveMap.getComponent('MapConfig');
+             return mapInterface.getAllMinePos();
         }else{
             return null;
         }
     },
 
+    //更新地图上工人分布信息
     updateMiningInfo: function(miningInfo) {
         if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
              this.curActiveMap.getComponent('MapConfig').updateMiningInfo(miningInfo);
@@ -89,6 +106,33 @@ cc.Class({
 
         }    
     },
+
+    updateCurMapMineRemainingView: function() {
+        if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
+             let mapDataInterface = this.curActiveMap.getComponent('MapConfig');
+             let totalMineAmount = mapDataInterface.getCurMapTotalMineAmount();
+             let remaingMineAmount = mapDataInterface.getCurMapRemainingMineAmount();
+             let progress = (remaingMineAmount*100/totalMineAmount).toFixed(2);
+
+             let curMineRemaingLabel = this.curMineRemaingView.getChildByName('MineRemaingLabel').getComponent(cc.Label);
+             curMineRemaingLabel.string = `剩余矿量:${progress}%`;
+             let curMineRemaingBar = this.curMineRemaingView.getChildByName('MineRemaingBar').getComponent(cc.ProgressBar);
+             curMineRemaingBar.progress = progress/100;
+        }
+    },
+
+    //更新当前地图上剩余矿量
+    updateCurMapMineRemaingAmountInfo: function(remaingMineAmount) {
+        if (typeof(this.curActiveMap) != "undefined" && this.curActiveMap != null) {
+            let mapDataInterface = this.curActiveMap.getComponent('MapConfig');
+            mapDataInterface.updateCurMineAmount(remaingMineAmount);
+        }
+    },
+
+    //每帧更新地图上的显示数据
+    update: function(dt) {
+        this.updateCurMapMineRemainingView();
+    }
 
     
 });

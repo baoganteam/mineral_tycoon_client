@@ -35,7 +35,7 @@ cc.Class({
         this.playMiningAudioCallback = function() {
             var anim = this.getComponent(cc.Animation);
             var animState = anim.play('WorkerMining');
-            animState.speed=0.5;
+            animState.speed=0.3;
             this.playMining();
         }
         this.schedule(this.playMiningAudioCallback, 2);
