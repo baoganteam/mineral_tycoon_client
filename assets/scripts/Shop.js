@@ -15,7 +15,7 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-
+        miningView: cc.Node
     },
 
     showShop(){
@@ -27,7 +27,8 @@ cc.Class({
     },
 
     byWorker(){
-        playerData.workerList.push(worker);
+        this.miningView = this.miningView.MapManager('MapManager');
+        this.miningView.updateWorkerToMap(worker);
     },
     // LIFE-CYCLE CALLBACKS:
 
