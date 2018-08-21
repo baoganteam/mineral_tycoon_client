@@ -9,13 +9,15 @@
 //  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
 
 //worker
-var worker = require('./common/PlayerWorkerInfo');
 var playerData = require('./common/playerData');
 cc.Class({
     extends: cc.Component,
 
     properties: {
-        miningView: cc.Node
+        miningView: {
+            default: null,
+            type: cc.Node
+        }
     },
 
     showShop(){
@@ -27,11 +29,24 @@ cc.Class({
     },
 
     byWorker(){
-        this.miningView = this.miningView.MapManager('MapManager');
-        this.miningView.updateWorkerToMap(worker);
-    },
-    // LIFE-CYCLE CALLBACKS:
+        this.createWorker();
+        console.log(playerData.workerList[0].health);
+        console.log(playerData.workerList[0].workerId);
 
+        this.miningView = this.miningView.getComponent('MapManager');
+        this.miningView.updateWorkerToMap(playerData.workerList);
+    },
+
+    createWorker(){
+        var newWorker = {
+            workerId: Math.random(),
+            workerLevel: 1,
+            health: 1000,
+            prolificacy: 1,
+            curStatus: 1
+        };
+        playerData.workerList.push(newWorker);
+    },
     onLoad () {
     },
     // start () {

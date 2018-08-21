@@ -1,6 +1,6 @@
 module.exports = {
     //工人id
-    workerId: Math.random(),
+    workerId: 1,
     //工人等级
     workerLevel: 1,
     //工人健康值

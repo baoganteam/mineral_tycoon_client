@@ -89,21 +89,21 @@ cc.Class({
     //初始化玩家数据(当前只是加数据)
     initPlayData: function() {
         console.log(playerData);
-        playerData.workerCount = 1;
-        playerData.curUseMap = 1;
-        playerData.curProlificacy = 3;//playerData.workerCount*3;
-        playerData
-        for (let i = 1; i <= 5; i++) {
-            let newWorker = {
-                workerId: i,
-                workerLevel: 1,
-                health: 100,
-                prolificacy: 1,
-                curStatus: 1
-            };
-            playerData.workerList.push(newWorker);
+        // playerData.workerCount = 1;
+        // playerData.curUseMap = 1;
+        // playerData.curProlificacy = 3;//playerData.workerCount*3;
+        // playerData
+        // for (let i = 1; i <= 5; i++) {
+        //     let newWorker = {
+        //         workerId: i,
+        //         workerLevel: 1,
+        //         health: 100,
+        //         prolificacy: 1,
+        //         curStatus: 1
+        //     };
+        //     playerData.workerList.push(newWorker);
 
-        };
+        // };
 
         let mapInfo = {
             mapIndex: 1,
