@@ -10,7 +10,7 @@
 
 //玩家数据
 var playerData = require('./common/playerData');
-
+var gameConfig = require('./common/GameConfig');
 
 cc.Class({
     extends: cc.Component,
@@ -116,6 +116,13 @@ cc.Class({
         	this.updateMiningData();
         }
         this.schedule(this.miningScheduleCallback, playerData.coinProductivity);
+        //初始化出宝箱计时器
+        // this.getChestSchedultCallBack = function() {
+
+        // }
+        // this.schedule(this.getChestSchedultCallBack, gameConfig.chestApperperiod)
+
+
         //初始化当前界面显示
         this.updateUserGoldView();
         this.updateUserDiamondView();
@@ -150,8 +157,14 @@ cc.Class({
     updateMiningData: function() {
         let curMapInfo = playerData.mapList[playerData.curUseMap];
         if (curMapInfo.curMineralAmount > 0) {
-            playerData.coinCount = playerData.coinCount + playerData.curProlificacy*5;
-            let mineDecCount = (playerData.curProlificacy - curMapInfo.mineralGenerationRate > 0 ? playerData.curProlificacy - curMapInfo.mineralGenerationRate : 1)*5;
+            let factor = 1;
+            let pBuffInfo = playerData.buffList['p'];
+            if (pBuffInfo != null) {
+                if (pBuffInfo.buffRemaining > 0) { factor = 5; }
+            }
+            playerData.coinCount = playerData.coinCount + playerData.curProlificacy*5*factor;
+            this.audioManager.playAddCoin();
+            let mineDecCount = (playerData.curProlificacy*factor - curMapInfo.mineralGenerationRate > 0 ? playerData.curProlificacy*factor - curMapInfo.mineralGenerationRate : 1)*5;
             curMapInfo.curMineralAmount = curMapInfo.curMineralAmount - mineDecCount;
             if (curMapInfo.curMineralAmount < 0) {
                 curMapInfo.curMineralAmount = 0;
@@ -178,6 +191,8 @@ cc.Class({
                 let pBuffInfo = playerData.buffList['p'];
                 if (pBuffInfo.buffRemaining > 0) {
                     pBuffInfo.buffRemaining = pBuffInfo.buffRemaining - 1;
+                }else{
+                    delete playerData.buffList['p'];
                 }
             }, 
             1, pBuff.buffDuration);
@@ -195,6 +210,8 @@ cc.Class({
                 let lBuffInfo = playerData.buffList['l'];
                 if (lBuffInfo.buffRemaining > 0) {
                     lBuffInfo.buffRemaining = lBuffInfo.buffRemaining - 1;
+                }else{
+                    delete playerData.buffList['l'];
                 }
             }, 
             1, lBuff.buffDuration);

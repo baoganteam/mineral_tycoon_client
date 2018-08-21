@@ -3121,7 +3121,8 @@
     "node": {
       "__id__": 66
     },
-    "_enabled": true
+    "_enabled": true,
+    "miningView": null
   },
   {
     "__type__": "cc.Sprite",
@@ -3881,7 +3882,8 @@
     "node": {
       "__id__": 80
     },
-    "_enabled": true
+    "_enabled": true,
+    "miningView": null
   },
   {
     "__type__": "cc.Sprite",
@@ -4531,6 +4533,9 @@
     },
     "homeAudio": {
       "__uuid__": "88dbdf27-460b-4e52-9b69-a4b555a02606"
+    },
+    "coinAudio": {
+      "__uuid__": "0ec7d46c-5006-43dd-9ac8-bb514acc7a1e"
     }
   },
   {

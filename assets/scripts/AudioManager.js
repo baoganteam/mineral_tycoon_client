@@ -25,6 +25,11 @@ cc.Class({
         map1Audio: {
             default: null,
             url: cc.AudioClip
+        },
+
+        coinAudio: {
+            default: null,
+            url: cc.AudioClip
         }
     },
 
@@ -46,6 +51,10 @@ cc.Class({
 
     playButton: function() {
         this._playSFX(this.buttonAudio);
+    },
+
+    playAddCoin: function() {
+        this._playSFX(this.coinAudio);
     }
 
     

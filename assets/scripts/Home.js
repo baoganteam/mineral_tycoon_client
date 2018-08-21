@@ -93,7 +93,7 @@ cc.Class({
         playerData.curUseMap = 1;
         playerData.curProlificacy = 3;//playerData.workerCount*3;
         playerData
-        for (let i = 1; i <= 1; i++) {
+        for (let i = 1; i <= 5; i++) {
             let newWorker = {
                 workerId: i,
                 workerLevel: 1,
