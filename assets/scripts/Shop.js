@@ -10,11 +10,17 @@
 
 //worker
 var playerData = require('./common/playerData');
+var shopConfig = require('./common/shopConfig');
+
 cc.Class({
     extends: cc.Component,
 
     properties: {
         miningView: {
+            default: null,
+            type: cc.Node
+        },
+        workerPriceLabel: {
             default: null,
             type: cc.Node
         }
@@ -29,12 +35,14 @@ cc.Class({
     },
 
     byWorker(){
-        this.createWorker();
-        console.log(playerData.workerList[0].health);
-        console.log(playerData.workerList[0].workerId);
-
-        this.miningView = this.miningView.getComponent('MapManager');
-        this.miningView.updateWorkerToMap(playerData.workerList);
+        if(playerData.coinCount > shopConfig.workerPrice[playerData.workerList.length]){
+            playerData.coinCount = playerData.coinCount - shopConfig.workerPrice[playerData.workerList.length];
+            this.createWorker();
+            this.miningView.updateWorkerToMap(playerData.workerList);
+            Alert.show('购买成功！', null, false);
+        }else{
+            Alert.show('金币不足，购买失败！', null, false);
+        }
     },
 
     createWorker(){
@@ -46,8 +54,15 @@ cc.Class({
             curStatus: 1
         };
         playerData.workerList.push(newWorker);
+        this.setupWorkerPriceLabel();
+    },
+
+    setupWorkerPriceLabel(){
+        this.workerPriceLabel.getComponent(cc.Label).string = `${shopConfig.workerPrice[playerData.workerList.length]}`;
     },
     onLoad () {
+        this.setupWorkerPriceLabel();
+        this.miningView = this.miningView.getComponent('MapManager');
     },
     // start () {
 
