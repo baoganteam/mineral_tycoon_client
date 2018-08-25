@@ -23,6 +23,10 @@ cc.Class({
         workerPriceLabel: {
             default: null,
             type: cc.Node
+        },
+        game: {
+            default: null,
+            type: cc.Node
         }
     },
 
@@ -39,6 +43,7 @@ cc.Class({
             playerData.coinCount = playerData.coinCount - shopConfig.workerPrice[playerData.workerList.length];
             this.createWorker();
             this.miningView.updateWorkerToMap(playerData.workerList);
+            this.game.updateUserGoldView();
             Alert.show('购买成功！', null, false);
         }else{
             Alert.show('金币不足，购买失败！', null, false);

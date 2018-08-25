@@ -37,8 +37,8 @@ module.exports = {
     collectionAchievement: 0,
     //地图成就等级
     mapAchievement: 0,
-    //生产效率
-    coinProductivity: 5,
+    //生产效率 (默认为0)
+    coinProductivity: 0,
     //工人列表
     workerList: [],
     //藏品列表

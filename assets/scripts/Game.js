@@ -107,6 +107,7 @@ cc.Class({
         this.userDiamondView = this.userDiamondView.getChildByName('UserDiamondView');
 
         this.shop = this.shop.getComponent('Shop');
+        this.shop.game = this;
         this.workerManager = this.workerManager.getComponent('WorkerManager');
         this.miningView = this.miningView.getComponent('MapManager');
         this.miningView.changeMap(playerData.curUseMap, playerData.mapList[playerData.curUseMap]);
@@ -123,6 +124,9 @@ cc.Class({
         // this.schedule(this.getChestSchedultCallBack, gameConfig.chestApperperiod)
 
 
+        //初始化金币 默认30个金币
+        playerData.coinCount = 30;
+
         //初始化当前界面显示
         this.updateUserGoldView();
         this.updateUserDiamondView();
@@ -130,7 +134,7 @@ cc.Class({
         //加buff
         //TODO: 这里只是加数据，上线后需要删除
         this.addProlificacyBuff();
-        this.addLuckyBuff();    
+        this.addLuckyBuff();  
     },
 
     //更新用户金币数显示栏
