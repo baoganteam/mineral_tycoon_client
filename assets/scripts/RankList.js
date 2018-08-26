@@ -12,36 +12,27 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        scrollView: cc.ScrollView,
-        prefabOtherRankItem: cc.Prefab,
+
     },
 
-    onLoad: function() {
-        this.getRankData();
-        this.content = this.scrollView.content;
-
-        for (let i = 0; i < this.rankListData.length; i++) {
-            let rankData = this.rankListData[i];
-            let item = cc.instantiate(this.prefabOtherRankItem);
-            item.getComponent('OtherRankItem').init(rankData.rank, rankData);
-            this.content.addChild(item);
+    _updateSubDomainCanvas () {
+        if (!this.tex) {
+            return;
         }
+        var openDataContext = wx.getOpenDataContext();
+        var sharedCanvas = openDataContext.canvas;
+        this.tex.initWithElement(sharedCanvas);
+        this.tex.handleLoadedTexture();
+        this.node.spriteFrame = new cc.SpriteFrame(this.tex);
     },
 
-    //构造加数据,加上访问服务端后修改此方法
-    getRankData: function() {
-        this.rankListData = new Array();
-        for (let i = 1; i < 10; i++) {
-            let r = {
-                nickName: '杨晔',
-                rank: i,
-                prolificacy: 100,
-                avatarUrl: 'https://wx.qlogo.cn/mmopen/vi_32/AZq6fh2gwBlYAUkYhzT8VrEDyZMZook9jNAeACZ3k6nibxkCwoTP2etk4XjhibmQJoR8ic3pok8K4IljojNl4lKhA/132?aa=aa.jpg',
-            };
-            this.rankListData.push(r);
-        } 
+    update: function () {
+        this._updateSubDomainCanvas();
+    },
 
+    start: function() {
+        this.tex = new cc.Texture2D();
     }
 
-    // update (dt) {},
+
 });
